@@ -1,0 +1,270 @@
+Q11 most frequent vowels (languages, share):
+            n  share
+Phoneme             
+i        2059  0.943
+u        1966  0.900
+a        1922  0.880
+e        1435  0.657
+o        1400  0.641
+ɛ         779  0.357
+ɔ         765  0.350
+iː        725  0.332
+aː        680  0.311
+uː        671  0.307
+ə         483  0.221
+eː        483  0.221
+
+Q12 strict proportions: {'i': 0.943, 'a': 0.88, 'u': 0.9} | all three: 0.798
+
+Q13 proportions under the four criteria:
+                                 i      a      u  all three  violators
+strict                      0.943  0.880  0.900      0.798      442.0
+A: +diacritics              0.972  0.899  0.929      0.832      367.0
+B: +neighbouring qualities  0.990  0.995  0.952      0.945      121.0
+C: feature classes          0.991  0.991  0.951      0.940      131.0
+Q13 phonemes that criterion C adds for 'a': ['aʱ', 'aˀ', 'aː', 'aˑ', 'a˞', 'a˞ː', 'a˞ˤ', 'aˤ', 'aˤː', 'ã', 'ãː', 'ãˤ', 'ãˤː', 'ã̈', 'ã̈ː', 'ă', 'ä', 'äː', 'å', 'a̙', 'a̙ː', 'a̟', 'a̟ː', 'ã̟', 'ã̟ː', 'a̠', 'a̠ː', 'ä̠', 'ä̠ː', 'a̤', 'a̤ː', 'a̤ˑ', 'ã̤', 'ã̤̈ː', 'ä̤', 'ḁ', 'a̰', 'a̰ː', 'a̰ˑ', 'ã̰']
+
+Q14 violators under criterion A: 367 / 2184 (16.8%)
+Q14 which vowel is missing: {'i': 62, 'a': 221, 'u': 155}
+Q15 violators by source (share of that source's languages):
+        violators   of   rate
+Source                       
+ea            151  303  0.498
+spa             8   20  0.400
+uz              6   28  0.214
+saphon         66  329  0.201
+upsid          46  238  0.193
+ph             47  290  0.162
+ra             10   64  0.156
+gm             25  420  0.060
+aa              5  153  0.033
+er              3  339  0.009
+Q15 violators under criterion C by source:
+ Source
+saphon    0.188
+spa       0.100
+upsid     0.084
+ph        0.059
+ea        0.056
+ra        0.031
+gm        0.017
+er        0.009
+aa        0.007
+Q15 violators that remain even under feature criterion C: 131
+                  LanguageName  InventoryID  Source                                                                                                                                                                              vowels
+squa1248              Squamish           68     spa                                                                                                                                                                    a aː e eː o oː ə
+onei1249                Oneida           77     spa                                                                                                                                               a aː e̞ e̞ː i iː ə̃ ə̃ː ɤ̞ ɤ̞ː ɯ̃ ɯ̃ː
+adze1240                ADZERA          200   upsid                                                                                                                                                                  a aː i iː o̞ o̞ː ɯ
+alab1237               ALABAMA          210   upsid                                                                                                                                                                               a e o
+carn1240            NICOBARESE          271   upsid                                                                                                                                                                   e i o u ɒ ɔ ɘ ɛ ɯ
+uppe1439        UPPER CHEHALIS          283   upsid                                                                                                                                                                           a e̞ o̞ ə
+dhuw1249                YOLNGU          314   upsid                                                                                                                                                                               ɐ ɪ ʊ
+hopi1249                  HOPI          356   upsid                                                                                                                                                                       a i o̞u æ ø ɤ
+hupa1239                  HUPA          359   upsid                                                                                                                                                                a aː e̞ e̞ː o̞ o̞ː ɪ
+klam1254               KLAMATH          416   upsid                                                                                                                                                                           a e̞ i o̞
+chiq1250               MAZATEC          450   upsid                                                                                                                                                                 a ã i ĩ o õ ɛ ɛ̃
+marg1265                 MARGI          470   upsid                                                                                                                                                                            a o̞ ɛ ɨ
+mara1404               MARANAO          471   upsid                                                                                                                                                                            a i o̞ ɨ
+nava1243                NAVAJO          484   upsid                                                                                                                                     a aː ã ãː iː ĩː oː õː ɔ ɔ̃ ɛ ɛː ɛ̃ ɛ̃ː ɪ ɪ̃
+nort2957               NAHUATL          486   upsid                                                                                                                                                                            a i o̞ ɛ
+nezp1238             NEZ PERCE          490   upsid                                                                                                                                                                           a æ ɔ ɪ ɯ
+nucl1633              NIMBORAN          495   upsid                                                                                                                                                                       a e̞ i ɤ̞ ɨ ɯ
+plat1254              MALAGASY          517   upsid                                                                                                                                                                            a e̞ i o
+tiga1245                 TIGAK          572   upsid                                                                                                                                                                           i u ɐ ɔ ɛ
+nort2690                 UZBEK          603   upsid                                                                                                                                                                         e i æ ɒ ɵ ʉ
+wich1260               WICHITA          611   upsid                                                                                                                                                                 eː i oː u ɒ ɒː ɛ ɛː
+yess1239           YESSAN-MAYO          639   upsid                                                                                                                                                                             a ɒ ɜ ɨ
+zulg1242                 zulgo          851      aa                                                                                                                                                                                 a ə
+cuvo1236                 Cuvok          866      ph                                                                                                                                                                                 a ə
+kora1295                Korafe          871      ph                                                                                                                                                                           e i o u ɐ
+huro1249                 Huron          885      ph                                                                                                                                                                       a e ẽ i o õ
+jeme1245                 Jemez          898      ph                                                                                                                    e eː i iː ĩ ĩː o oː õ õː æ æː æ̃ æ̃ː ɑ ɑː ɑ̃ ɑ̃ː ɨ ɨː ɨ̃ ɨ̃ː
+mesc1238     Chiricahua Apache          951      ph                                                                                                                                     a aː ã ãː e eː ẽ ẽː i iː ĩ ĩː o oː õ õː
+sasa1249                 Sasak          997      ph                                                                                                                                                         ae ai au e i ia o oe u uə ə
+shaw1249               Shawnee         1012      ph                                                                                                                                                                       a aː e i iː o
+choc1276               Choctaw         1071      ph                                                                                                                                                                      a aː i iː o oː
+como1259                 Comox         1107      ph                                                                                                                                                                           a o ə ɛ ɪ
+soch1239   Sochiapan Chinantec         1108      ph                                                                                                                                                  i ĩ u ũ ɐ ɐ̃ ɔ ɔ̃ ɛ ɛ̃ ɤ ɤ̃ ɯ ɯ̃
+texi1237   Texistepec Popoluca         1136      ph                                                                                                                                                            a aː u uː ɔ ɔː ɛ ɛː ɨ ɨː
+seri1257                  Seri         1147      ph                                                                                                                                                                 i iː o oː ɑ ɑː ɛ ɛː
+tuka1248           Tukang Besi         1152      ph                                                                                                                                                                           a i o ɛ ɯ
+auuu1241                    Au         1169      ph                                                                                                                                                                      i o u ɐ ɐː ə ɨ
+surs1246            Sursurunga         1174      ph                                                                                                                                                                         e i o u ɐ ə
+awar1248                 Awara         1175      ph                                                                                                                                                                         e i o u ɐ ʌ
+chic1270             Chickasaw         1230      ph                                                                                                                                                          a aː ãː i iː ĩː o oː õː
+bana1305                  bana         1248      gm                                                                                                                                                                               ə ɛ ɨ
+huba1236                 Kilba         1304      gm                                                                                                                                                                           a i ə ɨ ɯ
+buwa1243                 Buwal         1402      gm                                                                                                                                                                                 ɑ ə
+keme1240              Kemezung         1412      gm                                                                                                                                                                     e i o u ɔ ə ɛ ɜ
+gude1246                 Gu'de         1578      gm                                                                                                                                                                           a aː ə əː
+mofu1248           Mofu, South         1598      gm                                                                                                                                                                         a aː e eː ə
+nort3047                Gisiga         1624      gm                                                                                                                                                                               a e o
+chok1243                Chokri         1718      ra                                                                                                                                                                           e i o u ə
+tase1235                Tangsa         1790      ra                                                                                                                                                                        e o u ɑː ɔ ə
+apur1254               Apurinã         1804  saphon                                                                                                                         a aː ã ãː e eː ẽ ẽː i iː ĩ ĩː o oː õ õː ɨ ɨː ɨ̃ ɨ̃ː
+araw1276                Lokono         1805  saphon                                                                                                                                                                           a e i o ɨ
+asha1243             Asháninka         1806  saphon                                                                                                                                                                 a aː e eː i iː o oː
+ajyi1238             Ashéninka         1807  saphon                                                                                                                                                                      a aː i iː o oː
+ashe1272             Ashéninka         1808  saphon                                                                                                                                                            a aː e eː i iː o oː ɨ ɨː
+pich1237             Ashéninka         1809  saphon                                                                                                                                                                 a aː e eː i iː o oː
+ucay1237             Ashéninka         1810  saphon                                                                                                                                                                 a aː e eː i iː o oː
+caqu1242              Caquinte         1815  saphon                                                                                                                                                                 a aː e eː i iː o oː
+enaw1238          Enawené-Nawé         1818  saphon                                                                                                                                                     a aː ã e eː ẽ i iː ĩ o oː õ
+mach1268            Manchinere         1821  saphon                                                                                                                                                                           a e i o ɨ
+mach1267            Matsigenka         1822  saphon                                                                                                                                                              a aː e eː i iː o oː ɨi
+nant1250                 Nanti         1824  saphon                                                                                                                                                              a aː e eː i iː o oː ɨi
+noma1263          Nomatsigenga         1825  saphon                                                                                                                                                              a aː e eː i iː o oː ɨi
+pare1272                Paresí         1828  saphon                                                                                                                                                                             a e i o
+yine1238                  Yine         1841  saphon                                                                                                                                                            a aː e eː i iː o oː ɯ ɯː
+baur1253                 Baure         1843  saphon                                                                                                                                                                             a e i o
+jama1261              Jarawara         1847  saphon                                                                                                                                                                 a aː e eː i iː ɯ ɯː
+culi1244                Kulina         1848  saphon                                                                                                                                                                             a e i o
+paum1247               Paumarí         1849  saphon                                                                                                                                                                      a aː i iː o oː
+suru1263               Suruahá         1850  saphon                                                                                                                                                                           a i o ɛ ɨ
+guam1248             Guambiano         1855  saphon                                                                                                                                                                           a e i o ɨ
+bora1263                  Bora         1857  saphon                                                                                                                                                       a aː e eː i iː o oː ɨ ɨː ɯ ɯː
+mira1254                Miraña         1858  saphon                                                                                                                                                a aʲ aʲː aː i iː o oː ɛ ɛː ɨ ɨː ɯ ɯː
+hixk1239            Hixkaryána         1871  saphon                                                                                                                                                                           a e o u ɨ
+waya1269                Wayana         1887  saphon                                                                                                                                                                       a e i ə ɤ ɨ ɯ
+orow1243               Oro Win         1889  saphon                                                                                                                                                                         a e i o ø ʏ
+wari1268                 Wari'         1890  saphon                                                                                                                                                                         a e i o y ø
+cofa1242                 Cofán         1895  saphon                                                                                                                                                            a ã i ĩ o õ ɛ ɛ̃ ɨ ɨ̃
+tehu1242             Tehuelche         1908  saphon                                                                                                                                                                      a aː e eː o oː
+abip1241                Abipon         1914  saphon                                                                                                                                                            a aː e eː i iː o oː ə əː
+kadi1248               Kadiwéu         1915  saphon                                                                                                                                                                 a aː e eː i iː o oː
+moco1246                Mocoví         1916  saphon                                                                                                                                                                 a aː e eː i iː o oː
+pila1245                Pilagá         1917  saphon                                                                                                                                                                             a e i o
+toba1269                  Toba         1919  saphon                                                                                                                                                                 a aː e eː i iː o oː
+amar1274            Amarakaeri         1920  saphon                                                                                                                                a aː ã ãː e eː ẽ ẽː i iː ĩ ĩː o oː õ õː ɨ ɨː
+cand1248       Candoshi-Shapra         1925  saphon                                                                                                                                                                      a aː i iː o oː
+waor1240               Waorani         1942  saphon                                                                                                                         a aː ã ãː e eː ẽ ẽː i iː ĩ ĩː o oː õ õː æ æː æ̃ æ̃ː
+maxa1247              Maxakalí         1967  saphon                                                                                                                                                            a ã e ẽ i ĩ o õ ɯ ɯ̃
+ofay1240                 Ofayé         1968  saphon                                                                                                                                                             a ã e ẽ i ĩ o õ ə ɛ
+mose1249               Tsimané         1988  saphon                                                                                                                                  a ã e eː ẽ ẽː i iː ĩ ĩː o õ ə əː ə̃ ə̃ː ɨ ɨ̃
+pira1253                Pirahã         1989  saphon                                                                                                                                                                               a i o
+amah1246              Amahuaca         1998  saphon                                                                                                                                                                 a ã i ĩ o õ ɨ ɨ̃
+chac1251               Chácobo         2002  saphon                                                                                                                                                                             a i o ɯ
+mats1244                Matsés         2008  saphon                                                                                                                                                                         a e i ɤ ɨ ɯ
+yami1256              Yaminawa         2016  saphon                                                                                                                                                                 a ã o õ ɪ ɪ̃ ɯ ɯ̃
+yame1242                 Yameo         2020  saphon                                                                                                                                                                 a ã e ẽ i ĩ o õ
+arao1248                Araona         2044  saphon                                                                                                                                                                             a e i o
+esee1248               Ese Eja         2047  saphon                                                                                                                                                                             a e i o
+araw1273               Araweté         2072  saphon                                                                                                                                                               a e ẽ i ĩ o õ ɨ ɨ̃
+toca1235  Asuriní do Tocantins         2074  saphon                                                                                                                                                                           a e i o ɨ
+gavi1246    Gavião do Jiparaná         2080  saphon                                                                                                                                                            a ã e ẽ i ĩ o õ ɨ ɨ̃
+kari1311             Karitiâna         2091  saphon                                                                                                                         a aː ã ãː e eː ẽ ẽː i iː ĩ ĩː o oː õ õː ɨ ɨː ɨ̃ ɨ̃ː
+kuru1309               Kuruáya         2094  saphon                                                                                                                                                             a ã e ẽ i ĩ o õ ɔ ɨ
+maku1278               Makuráp         2095  saphon                                                                                                                                                            a ã e ẽ i ĩ o õ ɨ ɨ̃
+mund1330             Mundurukú         2096  saphon                                                                                                                         a ã a̰ ã̰ e ẽ ḛ ḛ̃ i ĩ ḭ ḭ̃ o õ o̰ õ̰ ə ə̃ ə̰ ə̰̃
+para1312              Parakanã         2100  saphon                                                                                                                                                                           a e i o ɨ
+suru1262                 Suruí         2103  saphon                                                                                                                                                            a ã e ẽ i ĩ o õ ɨ ɨ̃
+tapi1254              Tapirapé         2105  saphon                                                                                                                                                            a ã e ẽ i ĩ o õ ɨ ɨ̃
+tupa1250                Tuparí         2108  saphon                                                                                                                                             a aː ã e eː ẽ i iː ĩ o oː õ ɨ ɨː ɨ̃
+ocai1244                Ocaina         2131  saphon                                                                                                                                                               a ã e i ĩ o õ ɨ ɨ̃
+nina1238                 Ninam         2132  saphon                                                                                                                                                                         a e i o ə ɯ
+paca1246             Pacahuara         2152  saphon                                                                                                                                                                             a i o ɨ
+east2337         Eastern Yugur         2242      ea                                                                                                                                                  a aː e eː u uː y yː ɔ ɔː ə əː ɵ ɵː
+malt1254               Maltese         2275      ea                                                                                                                                                         iː uː ɐ ɐː ɔ ɔː ɛ ɛː ɪ ɪː ʊ
+itel1242               Itelmen         2297      ea                                                                                                                                                                        a i o̞̜ u̜ ɛ
+guru1261                Gurung         2344      ea                                                                                                                           i ĩ i̤ u ũ ṳ ɔ ɔː ɔ̃ ɔ̤ ɔ̤ː ɛ ɛː ɛ̃ ɛ̤ ɛ̤ː ʌ ʌː ʌ̤ ʌ̤ː
+adyg1241                Adyghe         2349      ea                                                                                                                                                                               a e ə
+lada1244               Ladakhi         2366      ea                                                                                                                                                                           e i o u ə
+nort2686        Northern Altai         2372      ea                                                                                                                                           ɑ ɑː ɒ ɒː ɛ ɛː ɞ ɞː ɪ ɪː ɯ̽ ɯ̽ː ɵ ɵː ɶ ɶː
+cebu1242               Cebuano         2430      ea                                                                                                                                                                               ɪ ʊ ʌ
+cent1973             Wazirwola         2431      ea                                                                                                                                                                      a eː œː ɒː ə ɪ
+mode1248                 Greek         2458      ea                                                                                                                                                                         e̞ i o̞ u ɐ
+kama1351             Kamassian         2459      ea                                                                                                                                                         e̞ i o̞ u y ø̞ ɒ ə ə̆ ə̟̆ ɨ
+ngan1291              Nganasan         2461      ea                                                                                                                                                            a e i u̟ u̯ɑ y ɐ ɔ̟̜ ə ɨ
+elfd1234             Elfdalian         2473      ea  ai̯ː auː aː ãɪ̯ː ãː i̯uo i̯ũo o̞ o̞ː uo uoː ũo ũoː y yœ yœː yː ỹ ỹœ ỹœː ỹː æ æː œ œː œ̃ œ̃ː ɐ ɐ̃ ɔy̯ː ɔ̞ ɔ̞ː ɔ̞̃ ɔ̞̃ː ɛ ɛː ɛ̃ ɛ̃ː ɪ ɪɛ ɪɛː ɪː ɪ̃ ɪ̃ɛ ɪ̃ɛː ɪ̃ː ʏ ʏː ʏ̃ ʏ̃ː
+ersu1241                  Ersu         2533      ea                                                                                                                                                                       a a˞ i o ə˞ ɛ
+abkh1244                Abkhaz         2552      ea                                                                                                                                                                            ä äː ɨ
+jerr1238              Jèrriais         2596      ea                                                                        aːu̯ ei̯ eːi̯ ẽ ẽː i iː o oːu̯ õ õː u uː u̯o u̯ɔː yː øy̯ øːy̯ œ œː œ̃ œ̃ː ɒ ɒː ɒːi̯ ɒ̃ ɒ̃ː ɛ ɛː ɛ̃ ɛ̃ː ʏ
+nene1249         Tundra Nenets         2603      ea                                                                                                                                                             oː u uː æː ɑː ə ɤː ɨ ɨː
+anin1240          Anindilyakwa         2651      er                                                                                                                                                                             a e i ə
+alya1239              Alyawarr         2702      er                                                                                                                                                                               a i ə
+kayt1238              Kaytetye         2711      er                                                                                                                                                                               a i ə
+
+Q15 marginal vowels among the three corners: [['karo1304', 'ã'], ['karo1304', 'ĩ'], ['sene1264', 'u'], ['nort1550', 'ũ'], ['ndem1249', 'aː'], ['saan1246', 'u'], ['koyr1242', 'ã'], ['koyr1242', 'ĩ'], ['argo1244', 'aː'], ['bamb1269', 'ũː'], ['gaga1249', 'iː'], ['gaga1249', 'uː'], ['dutc1256', 'ã'], ['dutc1256', 'iː'], ['dutc1256', 'uː']]
+Q15 violators with several descriptions: 140; of which another description has all three: 69
+
+Q16 sanity: nasal feature vs tilde: {False: {'+': 0, '+,-': 0, '-': 19254, '-,+': 0, '-,+,-': 0}, True: {'+': 2951, '+,-': 17, '-': 0, '-,+': 38, '-,+,-': 1}}
+Q16 sanity: long feature vs ː: {False: {'+': 72, '+,-': 0, '-': 17387, '-,+': 0, '-,-,+': 0}, True: {'+': 4749, '+,-': 24, '-': 0, '-,+': 28, '-,-,+': 1}}
+Q17 nasal -> oral: 473 languages; satisfy for every vowel: 87.7% (58 exceptions); marked vowels lacking counterpart: 5.5%
+Q17 nasal -> oral (same base quality): 473 languages; satisfy for every vowel: 90.1% (47 exceptions); marked vowels lacking counterpart: 3.5%
+Q17 long -> short: 819 languages; satisfy for every vowel: 78.4% (177 exceptions); marked vowels lacking counterpart: 12.0%
+Q17 long -> short (same base quality): 819 languages; satisfy for every vowel: 81.7% (150 exceptions); marked vowels lacking counterpart: 9.0%
+Q16 languages with nasal / long / front rounded vowels: {'nasal': 473, 'long': 819, 'front_rounded': 171}
+Q17 y -> i: 125 languages with [y]; satisfied 96.8%, exceptions 4
+Q17 y -> u: 125 languages with [y]; satisfied 93.6%, exceptions 8
+Q17 y -> i and u: 125 languages with [y]; satisfied 92.8%, exceptions 9
+Q17 front rounded -> front unrounded (same height): 171 languages; satisfy for every vowel: 81.3% (32 exceptions); marked vowels lacking counterpart: 10.4%
+Q17 [y] exceptions:
+                     LanguageName  InventoryID  Source                                                                                                                                                                              vowels
+tzel1254                 TZELTAL          600   upsid                                                                                                                                                                       a e̞ o̞ y ɪ ʊ
+wari1268                   Wari'         1890  saphon                                                                                                                                                                         a e i o y ø
+plau1238  Mennonite Plautdietsch         2224      uz                                                                                                        a aʊ aʊɪ e ea eɔ eəɪ eɪ i ia iəɪ o oa oəɪ ua uɪ y ya ɔ ə əɪ əɪa əʊ əʊɪ ɛ ɪ ʊ
+east2337           Eastern Yugur         2242      ea                                                                                                                                                  a aː e eː u uː y yː ɔ ɔː ə əː ɵ ɵː
+vach1239          Eastern Khanty         2434      ea                                                                                                                                                    eˑ iˑ oˑ yˑ æˑ øˑ ɑˑ ɪ ɯˑ ɯ̽ ʊ ʏ
+elfd1234               Elfdalian         2473      ea  ai̯ː auː aː ãɪ̯ː ãː i̯uo i̯ũo o̞ o̞ː uo uoː ũo ũoː y yœ yœː yː ỹ ỹœ ỹœː ỹː æ æː œ œː œ̃ œ̃ː ɐ ɐ̃ ɔy̯ː ɔ̞ ɔ̞ː ɔ̞̃ ɔ̞̃ː ɛ ɛː ɛ̃ ɛ̃ː ɪ ɪɛ ɪɛː ɪː ɪ̃ ɪ̃ɛ ɪ̃ɛː ɪ̃ː ʏ ʏː ʏ̃ ʏ̃ː
+lowa1242   South Mustang Tibetan         2504      ea                                                                                                                                                                       a y œ ɔ ɛ ɪ ʊ
+tibe1272        Shigatse Tibetan         2558      ea                                                                                        a aː ã ãː e ea eː ẽ ẽː i ie iː ĩ ĩẽ ĩː oa õã yː ỹː œː œ̃ː ɔ ɔː ɔ̃ ɔ̃ː ʊ ʊː ʊ̃ ʊ̃ː
+west2368         Western Balochi         2622      ea                                                                                                                                                        iː i̯ɛ u̯ɔ yː æɪ̯ ɑː ɔʊ̯ ɪ ʊ
+
+Q17 nasal exceptions by source:
+ Source
+ea        17
+ra        15
+upsid      8
+gm         6
+spa        5
+ph         3
+saphon     3
+uz         1
+           LanguageName Source                  missing
+Glottocode                                             
+apat1240        Apatani     ra                   ũː ʊ̃
+bady1239         Pajade     gm  ãː ẽː ə̃ː ĩː õː ũː
+bhil1251          Bhili     ra                   ẽ̞ ʊ̃
+bond1245           Remo     ea                     ãõ
+bret1244         Breton     ea              ãũ̯ ɑ̃ œ̃
+bund1253        Bundeli     ra                 ã ɛ̃ ʊ̃
+chen1255    Nyinpa Cone     ea                   ã ãː
+cher1273       CHEROKEE  upsid                       ə̃
+copa1236          ZOQUE  upsid                     ɤ̟̞̃
+dutc1256          Dutch     ea                       ã
+
+Q17 long exceptions by source:
+ Source
+ea        77
+gm        23
+ra        20
+upsid     19
+ph        16
+aa         8
+spa        7
+saphon     4
+uz         3
+           LanguageName Source     missing
+Glottocode                                
+aari1239           Aari     gm  e̞ː iː o̞ː
+akoo1248         Akoose     gm       aː uː
+alab1254         Alaaba     gm       iː uː
+alut1245         Alutor     ea    e̞ː o̞̜ː
+apat1240        Apatani     ra         ũː
+awiy1238         Auyana    spa          aː
+bade1248           Bade     gm       eː oː
+bakh1245      Bakhtiari     ea    ɑː iː uː
+bats1242           Bats     ea          ɛː
+bena1262           Bena     gm          eː
+
+Q18 nasal (A) vs oral (B) -- trivial: every language has an oral vowel
+ col_0  True
+row_0      
+False  1711
+True    473
+Q18 [y] (A) vs [i]&[u] (B)
+ has i&u  False  True 
+has y                
+False      159   1900
+True         9    116
+Q18 P(i&u | y) = 0.928   but   P(y | i&u) = 0.058

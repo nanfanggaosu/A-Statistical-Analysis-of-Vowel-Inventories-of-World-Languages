@@ -1,0 +1,178 @@
+Glottocode,n_marked,n_missing,missing,all_ok,LanguageName,InventoryID,Source
+aari1239,5,3,e̞ː iː o̞ː,False,Aari,1483,gm
+akoo1248,4,2,aː uː,False,Akoose,1554,gm
+alab1254,5,2,iː uː,False,Alaaba,1451,gm
+alut1245,5,2,e̞ː o̞̜ː,False,Alutor,2412,ea
+apat1240,1,1,ũː,False,Apatani,1705,ra
+awiy1238,1,1,aː,False,Auyana,57,spa
+bade1248,5,2,eː oː,False,Bade,1437,gm
+bakh1245,3,3,ɑː iː uː,False,Bakhtiari,2249,ea
+bats1242,4,1,ɛː,False,Bats,2390,ea
+bena1262,5,1,eː,False,Bena,1513,gm
+bett1235,6,2,iː ʊː,False,Betta Kurumba,2354,ea
+bhil1251,9,1,ũː,False,Bhili,1712,ra
+binu1245,2,2,eː oː,False,Binumarien,872,ph
+brah1256,10,3,ɛ̃ː ɔː ɔ̃ː,False,Brahui,2377,ea
+bund1253,6,1,ũː,False,Bundeli,1716,ra
+buru1296,5,1,äː,False,Burushaski,2613,ea
+cent1972,5,5,äː eː iː oː uː,False,Kurdish,2250,ea
+cent1973,3,3,ɒː eː œː,False,Wazirwola,2431,ea
+cent1990,9,1,ɨː,False,Nicobarese,1773,ra
+chec1245,9,7,ɑː ɑ̃ː ẽ̞ː iː ĩː uː ũː,False,Chechen,2574,ea
+chen1255,12,4,ẽː ĩː õː ũː,False,Nyinpa Cone,2474,ea
+chic1270,6,3,ãː ĩː õː,False,Chickasaw,1230,ph
+chra1242,8,6,aː eː əː oː ɔː uː,False,Chrau,861,ph
+dark1243,8,2,aː æː,False,Darkhat,2256,ea
+dhiv1236,6,1,æː,False,Dhivehi,2315,ea
+doya1240,12,2,ĩː ũː,False,doayo,698,aa
+dutc1256,10,5,aː eː oː øː œː,False,Dutch,2405,ea
+dzon1239,13,8,ɑ̃ː ẽː ɛː ĩː õː øː ũː ʏː,False,Dzongkha,2394,ea
+dzuu1241,14,2,ẽː õː,False,Dzuungoo,1468,gm
+east2304,10,9,ã̈ː eː ẽː iː ĩː oː õː uː ũː,False,Eastern Hill Balochi,2498,ea
+east2542,8,7,ãː ɛː ɛ̃ː iː ĩː oː õː,False,OJIBWA,508,upsid
+egyp1253,5,5,æː eː iː oː uː,False,ARABIC,231,upsid
+elfd1234,16,2,aː ãː,False,Elfdalian,2473,ea
+eyak1241,7,1,ɑː,False,EYAK,325,upsid
+faro1244,5,5,eː iː oː øː uː,False,Faroese,2378,ea
+gade1236,1,1,ũː,False,Gade-Lohar,1721,ra
+gads1258,3,3,a̟ː eː oː,False,GADSUP,336,upsid
+gaga1249,6,1,uː,False,Gagauz,2331,ea
+glav1244,3,1,iː,False,Glavda,1543,gm
+guja1252,12,12,ã̈ː ã̤̈ː ə̃ː ə̤̃ː ɛ̃ː ɛ̤̃ː ĩː ĩ̤ː ɔ̃ː ɔ̤̃ː ũː ṳ̃ː,False,Gujarati,2452,ea
+guja1253,1,1,ũː,False,Gojri,1724,ra
+haus1257,5,1,aː,False,Hausa,2188,uz
+hind1269,14,14,äː ã̈ː eː ẽː ɛː ɛ̃ː iː ĩː oː õː ɔː ɔ̃ː uː ũː,False,Hindi,2542,ea
+huas1242,5,3,eː oː uː,False,Huastec,1116,ph
+hueh1236,5,2,eː iː,False,"Tepehua, Huehuetla; Tepehua de Hidalgo; Tepehua de Huehuetla",1083,ph
+hung1274,7,2,eː yː,False,Hungarian,2557,ea
+iraq1241,5,5,ɑː eː iː oː uː,False,IRAQW,370,upsid
+iris1253,5,5,ɑː eː iː oː uː,False,Irish,2521,ea
+iseb1246,7,1,oː,False,Ngomba,962,ph
+jams1239,14,7,ãː ẽː ɛ̃ː ĩː õː ɔ̃ː ũː,False,"Jamsay, Dogon",1442,gm
+jaun1243,5,2,ə̃ː õː,False,Jaunsari,1731,ra
+jerr1238,11,1,yː,False,Jèrriais,2596,ea
+jola1263,5,2,eː oː,False,joola,737,aa
+juho1239,11,1,ɔ̃ˤː,False,!XU,432,upsid
+jurm1239,9,1,ʊː,False,jur mödö,738,aa
+kaba1278,5,5,äː eː iː oː uː,False,Kabardian,2610,ea
+kalm1243,8,3,äː iː uː,False,Kalmyk,2599,ea
+kang1280,5,5,aː ɛː iː ɔː uː,False,Kangri,1733,ra
+kara1462,18,10,ãː æː ɛ̃ː ɞ̜̃ː ĩː ɪ̃ː ɨ̞̃ː ɔ̟̜̃ː ũː ʉ̃ː,False,Tofa,2540,ea
+kare1338,13,3,ɛː ɛ̃ː ɔ̃ː,False,Kare,1347,gm
+karo1304,5,2,eː oː,False,KAROK,438,upsid
+kash1277,14,5,ẽː ə̃ː ĩː ɨ̃ː õː,False,Kashmiri,1738,ra
+khak1248,8,1,iː,False,Khakas,2433,ea
+khal1271,4,3,iː uː yː,False,Khalkhal,2537,ea
+khmu1256,10,5,ɛː ɘː ɜː ɨː ɔː,False,KHMU?,412,upsid
+kild1236,6,1,äː,False,Kildin Saami,2260,ea
+kond1295,10,4,ɑ̃ː ə̃ː ĩː õː,False,Kon̩d̩a or Kubi,1745,ra
+konk1269,7,2,eː ʌː,False,Konkomba,1508,gm
+kore1280,8,8,ɑ̟ː eː ɛː ɘː iː oː uː ɯː,False,Korean,2287,ea
+kuii1252,9,3,ãː ə̃ː ĩː,False,Kui,1752,ra
+kumi1248,4,2,eː oː,False,DIEGUENO,306,upsid
+kumz1235,5,5,aː eː iː oː uː,False,Kumzari,2221,uz
+kuoo1238,13,3,ɛː ɛ̃ː ɔ̃ː,False,Kuo,1346,gm
+kuru1302,6,3,ɑ̃ː õː ũː,False,Kurux,1754,ra
+kyer1238,14,6,ãː ɛ̃ː õː ø̃ː ũː ỹː,False,Kyirong Tibetan,2393,ea
+lakk1238,10,3,ĩː ɔː ɔ̃ː,False,LAKKIA,439,upsid
+lamb1269,7,3,ĩː ɨː ɨ̃ː,False,Lamani,1757,ra
+lepc1244,1,1,üː,False,Lepca,1758,ra
+lezg1247,2,1,ɑː,False,Lezgian,2524,ea
+ligu1248,11,5,aː ɑː ɛː œː ɔː,False,Ligurian,2325,ea
+lith1251,4,4,äː æː iː uː,False,Lithuanian,2488,ea
+luwo1239,2,2,eː oː,False,Luwo,1432,gm
+luxe1241,6,2,aː ɛː,False,Luxembourgish,2337,ea
+maas1239,5,1,oː,False,fulfulde,714,aa
+maka1304,10,1,ɔː,False,mekaa,783,aa
+malt1254,6,2,iː uː,False,Maltese,2275,ea
+mani1292,5,2,eː oː,False,Manipuri,1764,ra
+mans1258,3,1,ɑː,False,Northern Mansi,2475,ea
+maor1246,5,1,oː,False,Maori,42,spa
+mehr1241,7,5,eː iː oː õː uː,False,Mehri,2510,ea
+mola1238,4,1,æː,False,Molalla,1123,ph
+mong1331,6,1,oː,False,Mongolian,2464,ea
+mono1269,13,3,ɛː ɛ̃ː ɔ̃ː,False,Mono,1344,gm
+mudh1235,6,2,ə̃ː õː,False,Kon̩ekar Gadaba,1746,ra
+mund1325,15,4,ɛː ɔ̃ː ũː ʊ̃ː,False,Mundang,1343,gm
+munj1244,5,5,ɑː eː iː ɔ̜ː uː,False,Munji,2289,ea
+najd1235,5,2,eː oː,False,Najdi Arabic,2607,ea
+nava1243,8,4,iː ĩː oː õː,False,NAVAJO,484,upsid
+ndai1238,11,2,ɛː ɔ̃ː,False,Galke,1348,gm
+nene1249,6,4,æː ɑː ɤː oː,False,Tundra Nenets,2603,ea
+ngiz1242,3,2,e̞ː o̞ː,False,NGIZIM,491,upsid
+nige1255,8,1,əː,False,mambila,774,aa
+nisg1240,5,1,iː,False,Nishgha,1130,ph
+noon1243,7,2,e̞ː uː,False,NONI,492,upsid
+nort2626,6,6,eː iː oː øː uː yː,False,Frisian,1111,ph
+nort2627,4,4,eː iː oː uː,False,Low German,1131,ph
+nort2646,6,5,ɑː eː iː oː uː,False,Yousafzai Pashto,2321,ea
+nort2647,6,5,ɑː eː iː oː uː,False,Northwestern Pashto,2332,ea
+nort2684,13,10,aː ɑː əː ɤː iː oː ɔː uː ɯː ʌː,False,Northern Khmer,965,ph
+norw1258,8,3,eː oː øː,False,Norwegian,2441,ea
+norw1259,9,7,ɑː eː iː ø̞ː o̞ː uː yː,False,NORWEGIAN,499,upsid
+nuuc1236,5,3,eː iː uː,False,Nootka,964,ph
+pana1305,6,1,eː,False,Panamint,1133,ph
+papa1238,3,1,aː,False,TOTONAC,585,upsid
+puoc1238,8,1,ɔː,False,Ksingmul,2386,ea
+russ1264,9,4,ɛː ɤː ɨː ɵː,False,Buriat,2317,ea
+sala1264,4,1,e̞ː,False,Salar,2523,ea
+sand1273,10,5,ãː ẽː ĩː õː ũː,False,Sandawe,1652,gm
+sans1269,5,2,eː oː,False,Sanskrit,1782,ra
+sanu1240,8,1,ĩː,False,Sanömá of Kolulu,2148,saphon
+sata1237,5,1,oː,False,Satawalese,1018,ph
+saya1246,6,1,ɘː,False,Syan,1370,gm
+scot1245,15,1,ɯ̃ː,False,Scottish Gaelic,2601,ea
+selk1253,13,1,ɔː,False,Taz Selkup,2485,ea
+sikk1242,16,8,ãː ẽː ɛ̃ː ĩː õː ø̃ː ũː ỹː,False,Denjongka,2415,ea
+siks1238,5,1,æː,False,Blackfoot,1103,ph
+silt1240,5,1,aː,False,Silt'i,1414,gm
+sinh1246,7,6,aː æː eː iː oː uː,False,SINHALESE,545,upsid
+slov1268,7,2,eː oː,False,Slovene,2455,ea
+sout2436,3,3,ɑː eː oː,False,Southwestern Pashto,2586,ea
+sout2642,5,4,eː iː oː uː,False,Southern Balochi,2545,ea
+sout2672,5,1,uː,False,Southeastern Pashayi,2227,uz
+sout2679,8,3,ɪː ʊː ʏː,False,Võro,2442,ea
+sout2833,13,2,ɛ̤ː ɛ̰ː,False,"Dinka, South Central",1309,gm
+stan1293,4,4,ɑː eː iː ʉː,False,English,2515,ea
+stan1295,8,6,eː iː oː øː uː yː,False,German,2398,ea
+stan1325,6,1,uː,False,Latvian,2493,ea
+stra1244,3,1,eː,False,Salish,69,spa
+suda1236,5,2,eː oː,False,arabe,659,aa
+suga1248,18,15,ãː ɛː ɛ̃ː ɤː ɤ̃ː iː ĩː ɔː ɔ̃ː uː ũː ɯː ɯ̃ː ʌː ʌ̃ː,False,Nizaa,1317,gm
+swed1254,9,8,ɑː eː iː oː øː uː ʉ̟ː yː,False,Swedish,2554,ea
+taba1266,6,6,ãː ẽ̞ː ə̃ː ĩː õ̞ː ũː,False,Chontal,85,spa
+taid1248,3,2,ɛː ɔː,False,Tay Yo,2582,ea
+taid1249,7,4,əː ɛː ɨː ɔː,False,Tay Daeng,2471,ea
+tase1235,1,1,ɑː,False,Tangsa,1790,ra
+tele1256,5,2,ɛː ɔː,False,Telefol,55,spa
+telu1262,6,1,æː,False,Telugu,2387,ea
+tewa1260,9,3,æː eː oː,False,Tewa,93,spa
+tibe1272,14,4,œː œ̃ː yː ỹː,False,Shigatse Tibetan,2558,ea
+tigr1270,5,5,a̟ː e̞ː iː o̞ː uː,False,TIGRE,576,upsid
+tonk1249,5,2,eː oː,False,TONKAWA,590,upsid
+tour1242,2,2,ɪː ʊː,False,Toura,1637,gm
+tupu1244,13,3,ɛː ɛ̃ː ɔ̃ː,False,Tupuri,1345,gm
+turk1304,8,1,æː,False,Turkmen,2595,ea
+tuvi1240,16,8,ɑ̰ː ɛ̰ː ḭː œ̰ː ɔ̰ː ṵː ɯ̰̽ː y̰ː,False,Tuvan,2579,ea
+udih1248,8,1,øː,False,Udihe,2570,ea
+uigh1240,7,3,æː œː ɔː,False,Uyghur,2612,ea
+unam1242,11,7,ãː æː æ̃ː ə̃ː ĩː ɔ̃ː ũː,False,Delaware,73,spa
+uppe1400,11,7,aˤː eː iː ɔˤː ʉː ʊˤː ʌˤː,False,Upper Saxon,2564,ea
+ural1274,4,1,üː,False,Urali,1796,ra
+urdu1245,14,14,äː ã̈ː eː ẽː ɛː ɛ̃ː iː ĩː oː õː ɔː ɔ̃ː uː ũː,False,Urdu,2466,ea
+waam1244,14,3,ẽː õː ũː,False,waama,838,aa
+wakh1245,6,2,iː ɔː,False,Wakhi,2514,ea
+wand1278,3,2,iː uː,False,Mandara,1585,gm
+wane1241,3,3,ɑː iː uː,False,Waneci,2589,ea
+wels1247,5,5,ɑː eː iː oː uː,False,Welsh,2406,ea
+west2354,9,2,eː øː,False,Frisian,2470,ea
+west2368,3,3,ɑː iː yː,False,Western Balochi,2622,ea
+west2369,3,3,ɒː iː uː,False,Farsi,2520,ea
+wich1260,4,2,eː oː,False,WICHITA,611,upsid
+yagn1238,6,6,ɑː eː iː o̞ː uː yː,False,Yaghnobi,2418,ea
+yaku1245,8,5,ɑː iː ɨː uː yː,False,Sakha,2444,ea
+yano1261,8,1,ĩː,False,Yanomamɨ of Venezuela,2151,saphon
+yano1262,7,1,ĩː,False,Yãroamë of Serra do Pacu/Ajarani,2150,saphon
+yape1248,8,3,ɑː eː iː,False,Yapese,1024,ph
+yeru1240,8,3,ɑ̃ː ə̃ː ĩː,False,Yerukala,1800,ra
+yuwa1244,1,1,ə̃ː,False,Hoti,2120,saphon

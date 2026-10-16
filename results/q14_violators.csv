@@ -1,0 +1,368 @@
+,LanguageName,InventoryID,Source,missing,vowels
+maor1246,Maori,42,spa,a,i iː oː o̞ u uː ɑ ɑː ɛ ɛː
+kunj1245,Kunjen,46,spa,iu,a o̞ ɛ ɪ ʊ
+mara1386,Maranungku,47,spa,u,a i æ ə ʊ
+squa1248,Squamish,68,spa,iu,a aː e eː o oː ə
+stra1244,Salish,69,spa,iu,a aː eː ə ɪ ʊ ʊː
+onei1249,Oneida,77,spa,u,a aː e̞ e̞ː i iː ə̃ ə̃ː ɤ̞ ɤ̞ː ɯ̃ ɯ̃ː
+sout2961,Tiwa,92,spa,a,e ẽ i ĩ o õ u ũ ɑ ɑ̃ ə ə̃
+moro1292,Moroccan Arabic,133,spa,a,i u æ ə̆
+adze1240,ADZERA,200,upsid,u,a aː i iː o̞ o̞ː ɯ
+amel1241,AMELE,202,upsid,a,i u æ ɔ ɛ
+alab1237,ALABAMA,210,upsid,iu,a e o
+hame1242,HAMER,218,upsid,a,e e̞ˤ i o u ɐˤ ɑ ɔˤ ɪˤ ʊˤ
+bell1243,BELLA COOLA,255,upsid,iu,a ɪ ʊ
+cadd1256,CADDO,269,upsid,iu,a ɪ ʊ
+carn1240,NICOBARESE,271,upsid,a,e i o u ɒ ɔ ɘ ɛ ɯ
+cham1312,CHAMORRO,277,upsid,a,e̞ i o̞ u æ ɑ
+chuv1255,CHUVASH,281,upsid,a,e̞ i o̞ u y ø̆ ɑ ɔ̆ ɯ
+uppe1439,UPPER CHEHALIS,283,upsid,iu,a e̞ o̞ ə
+nyis1236,DAFLA,302,upsid,a,i i̥ u u̥ ɑ ɔ ɛ ɯ ʌ
+kumi1248,DIEGUENO,306,upsid,iu,a aː eː oː ɔ ɔː ə ɪ ʊ
+dhuw1249,YOLNGU,314,upsid,iau,ɐ ɪ ʊ
+eyak1241,EYAK,325,upsid,a,i iː ĩ ĩː u uː ũ ũː ɑː ɑ̃ ɑ̃ː ɛ ɛː
+nort2938,HAIDA,353,upsid,u,a i ʊ
+hopi1249,HOPI,356,upsid,u,a i o̞u æ ø ɤ
+hupa1239,HUPA,359,upsid,iu,a aː e̞ e̞ː o̞ o̞ː ɪ
+iaai1238,IAI,363,upsid,a,e eː i iː o oː u uː y æ æː œ ɔ ɔː ɛ ɛː
+klam1254,KLAMATH,416,upsid,u,a e̞ i o̞
+karo1304,KAROK,438,upsid,u,a aː ã eː i iː ĩ oː ɛ ʊ ʊː
+luis1253,LUISENO,447,upsid,iu,a e̞ o̞ ɪ ʊ
+lush1252,LUSHOOTSEED,449,upsid,iu,a ə ɪ ʊ
+chiq1250,MAZATEC,450,upsid,u,a ã i ĩ o õ ɛ ɛ̃
+marg1265,MARGI,470,upsid,iu,a o̞ ɛ ɨ
+mara1404,MARANAO,471,upsid,u,a i o̞ ɨ
+murr1258,MURINHPATHA,474,upsid,u,a i ɛ ʊ
+nava1243,NAVAJO,484,upsid,u,a aː ã ãː iː ĩː oː õː ɔ ɔ̃ ɛ ɛː ɛ̃ ɛ̃ː ɪ ɪ̃
+naxi1245,NAXI,485,upsid,a,i o̞ u y æ ɑ ə ə˞ ɛ ɯ ɯ͓
+nort2957,NAHUATL,486,upsid,u,a i o̞ ɛ
+nezp1238,NEZ PERCE,490,upsid,iu,a æ ɔ ɪ ɯ
+nucl1633,NIMBORAN,495,upsid,u,a e̞ i ɤ̞ ɨ ɯ
+east2542,OJIBWA,508,upsid,u,a aː ãː iː ĩː oː õː ɛː ɛ̃ː ɪ ʊ
+ormu1247,ORMURI,510,upsid,iu,a̟ e o ɔ ɪ ʊ
+plat1254,MALAGASY,517,upsid,u,a e̞ i o
+sout2982,POMO,518,upsid,iu,a ɔ ɛ ɪ ʊ
+pohn1238,POHNPEIAN,519,upsid,i,a o u ɔ ɛ ɪ
+sout2991,QUECHUA,524,upsid,iu,a ɔ ɛ ɪ ʊ
+soma1255,SOMALI,552,upsid,u,a e̞ i æ ɔ ɛ ɪ ɵ̞ ʉ̞ ʊ
+tiga1245,TIGAK,572,upsid,a,i u ɐ ɔ ɛ
+taha1241,TAMASHEQ,575,upsid,a,e̞ e̞ː i iː o̞ o̞ː u uː æ æː ɐ ə
+nort1550,PICURIS,598,upsid,a,e ẽ i ĩ o õ u ũ ɑ ɑ̃ ə ə̃
+tzel1254,TZELTAL,600,upsid,iu,a e̞ o̞ y ɪ ʊ
+nort2690,UZBEK,603,upsid,au,e i æ ɒ ɵ ʉ
+wich1260,WICHITA,611,upsid,a,eː i oː u ɒ ɒː ɛ ɛː
+kama1365,WOISIKA,617,upsid,iu,a a̟ e̠̞ o̟̞ ɑ ɒ ɔ ɛ ɨ ɪ ʉ ʊ
+yess1239,YESSAN-MAYO,639,upsid,iu,a ɒ ɜ ɨ
+hang1258,hanga,728,aa,i,a u ɔ ɛ ɪ ʊ
+pula1263,pulaar,809,aa,u,a aː e eː i iː ɔ ɔː ʊ ʊː
+tawa1286,tamajaq,824,aa,a,e eː i iː o oː u uː ɑ ɑː ɨ ɨː ʌ ʌː
+zand1248,zande,849,aa,iu,a ɔ ɛ ɪ ʊ
+zulg1242,zulgo,851,aa,iu,a ə
+coma1245,Comanche,864,ph,a,e i o u ɑ ɨ
+cuvo1236,Cuvok,866,ph,iu,a ə
+usar1243,Usarufa,870,ph,a,e i o u ɑ
+kora1295,Korafe,871,ph,a,e i o u ɐ
+binu1245,Binumarien,872,ph,a,eː i oː u ɑ
+fang1246,Fan,877,ph,i,a aː e eː o oː u uː ɔ ɔː ə əː ɛ ɛː ɪ ɪː
+goli1247,Golin,881,ph,iau,ɑ ɑː ɔ ɔː ɛ ɛː ɪ ɪː ʊ ʊː
+huro1249,Huron,885,ph,u,a e ẽ i o õ
+yalu1240,Jalonke,895,ph,a,e eː i iː o oː u uː ɑ ɑː ɔ ɔː ɛ ɛː
+jeme1245,Jemez,898,ph,au,e eː i iː ĩ ĩː o oː õ õː æ æː æ̃ æ̃ː ɑ ɑː ɑ̃ ɑ̃ː ɨ ɨː ɨ̃ ɨ̃ː
+kaby1243,Kabyle,900,ph,iau,ɑ ɪ ʊ
+luch1239,Lucazi,928,ph,iu,a aː e eː o oː ɪ ɪː ʊ ʊː
+mesc1238,Chiricahua Apache,951,ph,u,a aː ã ãː e eː ẽ ẽː i iː ĩ ĩː o oː õ õː
+quec1382,Yuma,952,ph,i,a aː e eː o oː u uː ɪ ɪː
+nank1250,Nankina,953,ph,a,i u ɑ ɔ ɛ ʌ
+nubi1253,Nubi,967,ph,a,e i o u ɑ
+sasa1249,Sasak,997,ph,a,ae ai au e i ia o oe u uə ə
+sava1244,Savara,998,ph,a,e i o u æ ɑ ə ɛ ɪ ʊ ʌ
+taro1264,Sedik,1001,ph,a,e i o u ɑ ə ɨ ɪ ɯ ʌ
+siar1238,Siar-Lak,1010,ph,a,e e̝ i o o̝ u ɑ
+shaw1249,Shawnee,1012,ph,u,a aː e i iː o
+yape1248,Yapese,1024,ph,u,a aː eː iː æ æː œ œː ɑː ɔ ɔː ɛ ɪ ʊ ʊː ʌ
+tolo1259,Tolowa; Tolowa-Chetco,1069,ph,a,i u æ ɐ ɑ
+choc1276,Choctaw,1071,ph,u,a aː i iː o oː
+yuch1247,Euchee; Yuchi,1074,ph,a,e ẽ i ĩ o õ u æ æ̃ ɑ ɑ̃
+utes1238,Southern Ute; Ute; Ute-Southern Paiute,1084,ph,a,i iː o oː u uː æ æː ø øː ɑ ɑː ɛ ɛː ɨ ɨː ɯ ɯː
+beli1260,Belizean Creole,1105,ph,a,e eː ẽ i iː o oː u uː ɑ ɑi ɑː ɑ̃
+como1259,Comox,1107,ph,iu,a o ə ɛ ɪ
+soch1239,Sochiapan Chinantec,1108,ph,a,i ĩ u ũ ɐ ɐ̃ ɔ ɔ̃ ɛ ɛ̃ ɤ ɤ̃ ɯ ɯ̃
+mola1238,Molalla,1123,ph,au,i iː æː ɑ ɑː ʊ ʊː
+nisg1240,Nishgha,1130,ph,u,a aː iː ɔ ɔː ɛ ɛː ɪ ʊ ʊː
+nort2984,Northern Pame,1132,ph,a,e ẽ i ĩ u ũ æ æ̃ ɑ ɑ̃ ə ə̃
+nort2966,Northern Pomo,1135,ph,a,e eː i iː o oː u uː ɑ ɑː
+texi1237,Texistepec Popoluca,1136,ph,i,a aː u uː ɔ ɔː ɛ ɛː ɨ ɨː
+seri1257,Seri,1147,ph,au,i iː o oː ɑ ɑː ɛ ɛː
+tuka1248,Tukang Besi,1152,ph,u,a i o ɛ ɯ
+abau1245,Abau,1160,ph,a,e i o u ɑ
+auuu1241,Au,1169,ph,a,i o u ɐ ɐː ə ɨ
+surs1246,Sursurunga,1174,ph,a,e i o u ɐ ə
+awar1248,Awara,1175,ph,a,e i o u ɐ ʌ
+bari1286,Bariai,1185,ph,a,e i o u ɑ
+befa1241,Befang,1186,ph,a,e eː i iː o oː u uː ɑ ɑː ɔ ə əː ɛ
+bina1277,Binandere,1193,ph,a,e ei eo ẽ ẽĩ i iu ĩ o oe oi ou õ õũ u ũ ɑ ɑe ɑi ɑo ɑu ɑ̃ ɑ̃ĩ ɑ̃õ
+torw1241,Torwali,1219,ph,a,e ẽ i ĩ o õ u ũ æ æ̃ ɑ ɑ̃ ə
+anei1239,Aneityum; Anejom̃,1228,ph,iu,a ɔ ɛ ɪ ʊ
+chic1270,Chickasaw,1230,ph,u,a aː ãː i iː ĩː o oː õː
+jica1244,Jicarilla Apache,1232,ph,u,a aː ã ãː i iː o oː õ õː ə ɛ ɛː ɛ̃ ɛ̃ː ɪ ɪ̃ ɪ̃ː ʊ
+bana1305,bana,1248,gm,iau,ə ɛ ɨ
+diri1252,diriku,1271,gm,iu,a ɔ ɛ ɪ ʊ
+kwan1273,kwangari,1272,gm,iu,a ɔ ɛ ɪ ʊ
+afit1238,Afitti,1295,gm,a,e i o u ɑ ə
+huba1236,Kilba,1304,gm,u,a i ə ɨ ɯ
+cher1271,Hill Guang,1323,gm,a,e ẽ i ĩ o õ u ũ æ æ̃
+buwa1243,Buwal,1402,gm,iau,ɑ ə
+keme1240,Kemezung,1412,gm,a,e i o u ɔ ə ɛ ɜ
+moro1284,Morokodo,1424,gm,a,e i u ɑ ɔ ə ɛ ɪ ɵ ʊ
+luwo1239,Luwo,1432,gm,a,eː i oː u ɑ ɔ ə ɛ ɪ ʊ
+acol1236,Acholi,1433,gm,ia,e o u ɑ ɔ ə ɛ ɪ ʊ
+bela1256,Belanda Boor,1434,gm,a,e i o u ɑ ɔ ə ɛ ɪ ʊ
+bela1255,Belanda Viri,1435,gm,a,e i o u ɑ ɔ ɘ ɛ ɪ ʊ
+ndog1248,Ndogo,1436,gm,iu,a ɔ ɛ ɪ ʊ
+nkon1248,Nkonya,1455,gm,a,e ẽ i ĩ o õ u ũ ɑ ɑ̃ ɔ ɔ̃ ɛ ɛ̃
+nort2795,Ndebele,1491,gm,a,e i o u ɑ
+efut1241,Efutu,1523,gm,a,e ẽ i ĩ o õ u ũ ɑ ɑ̃ ɔ ɔ̃ ɛ ɛ̃ ɪ ɪ̃ ʊ ʊ̃
+tiag1235,"Aizi, Tiagba",1528,gm,u,a e i o ɔ ɛ ɪ ʊ
+gava1241,Gavar,1577,gm,a,e i u ɑ ə
+gude1246,Gu'de,1578,gm,iu,a aː ə əː
+mofu1248,"Mofu, South",1598,gm,iu,a aː e eː ə
+njye1238,Njem,1602,gm,a,e eː i iː o oː u uː œ œː ɑ ɑː ɔ ɔː ɛ ɛː ɪ ɪː ʊ ʊː
+nort3047,Gisiga,1624,gm,iu,a e o
+kahe1238,Kikahe,1642,gm,a,i iː u uː ɑ ɑː ɔ ɔː ɛ ɛː
+teng1272,Tengger,1700,gm,a,e e̤ i i̤ o o̤ u ṳ ɑ ɑ̤ ɒ ɒ̤ ɔ ɔ̤ ə ə̤ ɛ ɛ̤ ɪ ɪ̤ ʊ ʊ̤
+awad1243,Awadhi,1707,ra,a,e i o u æ ɑ ɔ ɛ
+chau1259,Chandangs and Byangs,1717,ra,a,e i o u ɑ ɔ ə ɛ
+chok1243,Chokri,1718,ra,a,e i o u ə
+khez1235,Khezha,1742,ra,a,e e̞ i o u ɑ ə ɨ
+lepc1244,Lepca,1758,ra,a,e e̞ i o ö u üː ɑ ɔ ʌ
+cent1990,Nicobarese,1773,ra,a,e eː i iː o oː u uː æ ɑ ɑː ɔ ɔː ə əː ɛ ɛː ɨː ɯ
+patt1248,Pat̩t̩an̩i,1778,ra,a,e i o u ɑ ə
+tase1235,Tangsa,1790,ra,ia,e o u ɑː ɔ ə
+kokb1239,Tripuri,1794,ra,i,a o u ɔ ɛ ɪ ɯ ʊ ʌ
+ural1274,Urali,1796,ra,a,ä e ë e̞ ë̞ i iː ï o u uː üː u̞ ɑ ɑ̈ ɑ̈ː ɛ ɪ ʊ ʌ
+apur1254,Apurinã,1804,saphon,u,a aː ã ãː e eː ẽ ẽː i iː ĩ ĩː o oː õ õː ɨ ɨː ɨ̃ ɨ̃ː
+araw1276,Lokono,1805,saphon,u,a e i o ɨ
+asha1243,Asháninka,1806,saphon,u,a aː e eː i iː o oː
+ajyi1238,Ashéninka,1807,saphon,u,a aː i iː o oː
+ashe1272,Ashéninka,1808,saphon,u,a aː e eː i iː o oː ɨ ɨː
+pich1237,Ashéninka,1809,saphon,u,a aː e eː i iː o oː
+ucay1237,Ashéninka,1810,saphon,u,a aː e eː i iː o oː
+caqu1242,Caquinte,1815,saphon,u,a aː e eː i iː o oː
+enaw1238,Enawené-Nawé,1818,saphon,u,a aː ã e eː ẽ i iː ĩ o oː õ
+mach1268,Manchinere,1821,saphon,u,a e i o ɨ
+mach1267,Matsigenka,1822,saphon,u,a aː e eː i iː o oː ɨi
+nant1250,Nanti,1824,saphon,u,a aː e eː i iː o oː ɨi
+noma1263,Nomatsigenga,1825,saphon,u,a aː e eː i iː o oː ɨi
+pare1272,Paresí,1828,saphon,u,a e i o
+yine1238,Yine,1841,saphon,u,a aː e eː i iː o oː ɯ ɯː
+baur1253,Baure,1843,saphon,u,a e i o
+jama1261,Jarawara,1847,saphon,u,a aː e eː i iː ɯ ɯː
+culi1244,Kulina,1848,saphon,u,a e i o
+paum1247,Paumarí,1849,saphon,u,a aː i iː o oː
+suru1263,Suruahá,1850,saphon,u,a i o ɛ ɨ
+guam1248,Guambiano,1855,saphon,u,a e i o ɨ
+bora1263,Bora,1857,saphon,u,a aː e eː i iː o oː ɨ ɨː ɯ ɯː
+mira1254,Miraña,1858,saphon,u,a aʲ aʲː aː i iː o oː ɛ ɛː ɨ ɨː ɯ ɯː
+hixk1239,Hixkaryána,1871,saphon,i,a e o u ɨ
+waya1269,Wayana,1887,saphon,u,a e i ə ɤ ɨ ɯ
+orow1243,Oro Win,1889,saphon,u,a e i o ø ʏ
+wari1268,Wari',1890,saphon,u,a e i o y ø
+cofa1242,Cofán,1895,saphon,u,a ã i ĩ o õ ɛ ɛ̃ ɨ ɨ̃
+tehu1242,Tehuelche,1908,saphon,iu,a aː e eː o oː
+abip1241,Abipon,1914,saphon,u,a aː e eː i iː o oː ə əː
+kadi1248,Kadiwéu,1915,saphon,u,a aː e eː i iː o oː
+moco1246,Mocoví,1916,saphon,u,a aː e eː i iː o oː
+pila1245,Pilagá,1917,saphon,u,a e i o
+toba1269,Toba,1919,saphon,u,a aː e eː i iː o oː
+amar1274,Amarakaeri,1920,saphon,u,a aː ã ãː e eː ẽ ẽː i iː ĩ ĩː o oː õ õː ɨ ɨː
+cand1248,Candoshi-Shapra,1925,saphon,u,a aː i iː o oː
+waor1240,Waorani,1942,saphon,u,a aː ã ãː e eː ẽ ẽː i iː ĩ ĩː o oː õ õː æ æː æ̃ æ̃ː
+maxa1247,Maxakalí,1967,saphon,u,a ã e ẽ i ĩ o õ ɯ ɯ̃
+ofay1240,Ofayé,1968,saphon,u,a ã e ẽ i ĩ o õ ə ɛ
+mose1249,Tsimané,1988,saphon,u,a ã e eː ẽ ẽː i iː ĩ ĩː o õ ə əː ə̃ ə̃ː ɨ ɨ̃
+pira1253,Pirahã,1989,saphon,u,a i o
+amah1246,Amahuaca,1998,saphon,u,a ã i ĩ o õ ɨ ɨ̃
+chac1251,Chácobo,2002,saphon,u,a i o ɯ
+mats1244,Matsés,2008,saphon,u,a e i ɤ ɨ ɯ
+ship1255,Shipibo,2015,saphon,u,a aː i iː ɨ ɨː ʊ ʊː
+yami1256,Yaminawa,2016,saphon,iu,a ã o õ ɪ ɪ̃ ɯ ɯ̃
+yame1242,Yameo,2020,saphon,u,a ã e ẽ i ĩ o õ
+piar1243,Piaroa,2042,saphon,a,e i u æ ɑ ɤ ɨ
+arao1248,Araona,2044,saphon,u,a e i o
+cavi1250,Cavineña,2045,saphon,u,a e i ʊ
+esee1248,Ese Eja,2047,saphon,u,a e i o
+reye1240,Reyesano,2048,saphon,u,a e i ʊ
+araw1273,Araweté,2072,saphon,u,a e ẽ i ĩ o õ ɨ ɨ̃
+toca1235,Asuriní do Tocantins,2074,saphon,u,a e i o ɨ
+gavi1246,Gavião do Jiparaná,2080,saphon,u,a ã e ẽ i ĩ o õ ɨ ɨ̃
+kari1311,Karitiâna,2091,saphon,u,a aː ã ãː e eː ẽ ẽː i iː ĩ ĩː o oː õ õː ɨ ɨː ɨ̃ ɨ̃ː
+kuru1309,Kuruáya,2094,saphon,u,a ã e ẽ i ĩ o õ ɔ ɨ
+maku1278,Makuráp,2095,saphon,u,a ã e ẽ i ĩ o õ ɨ ɨ̃
+mund1330,Mundurukú,2096,saphon,u,a ã a̰ ã̰ e ẽ ḛ ḛ̃ i ĩ ḭ ḭ̃ o õ o̰ õ̰ ə ə̃ ə̰ ə̰̃
+para1312,Parakanã,2100,saphon,u,a e i o ɨ
+suru1262,Suruí,2103,saphon,u,a ã e ẽ i ĩ o õ ɨ ɨ̃
+tapi1254,Tapirapé,2105,saphon,u,a ã e ẽ i ĩ o õ ɨ ɨ̃
+tupa1250,Tuparí,2108,saphon,u,a aː ã e eː ẽ i iː ĩ o oː õ ɨ ɨː ɨ̃
+ocai1244,Ocaina,2131,saphon,u,a ã e i ĩ o õ ɨ ɨ̃
+nina1238,Ninam,2132,saphon,u,a e i o ə ɯ
+paca1246,Pacahuara,2152,saphon,u,a i o ɨ
+kuna1268,Kunama,2198,uz,a,e i o oi u ɑ ɑi ɑu
+mafe1237,Mavea,2202,uz,a,e i o u ɑ
+nara1262,Nara,2203,uz,a,e eː i iː o oː u uː ɑ ɑː
+isth1244,Isthmus (Juchitán) Zapotec,2218,uz,a,e i iɑ ḭu o u ɑ
+bukh1238,Bukharan Tajik,2219,uz,a,e i o u ɑ ɵ
+plau1238,Mennonite Plautdietsch,2224,uz,u,a aʊ aʊɪ e ea eɔ eəɪ eɪ i ia iəɪ o oa oəɪ ua uɪ y ya ɔ ə əɪ əɪa əʊ əʊɪ ɛ ɪ ʊ
+east2337,Eastern Yugur,2242,ea,i,a aː e eː u uː y yː ɔ ɔː ə əː ɵ ɵː
+moks1248,Moksha,2245,ea,a,ä e̞ i o̞ u ə̆
+rajb1243,Rājbanshi,2247,ea,a,e ẽ i o u ũĩ æ æ̃ ʌ
+esto1258,Estonian,2248,ea,a,e i o u y æ ø ɑ ɤ
+cent1972,Kurdish,2250,ea,a,äː eː iː oː uː ə ɯ̽ ʊ
+dupa1235,Dupaningan Agta,2253,ea,a,ä i o u ə ɛ
+dolg1241,Dolgan,2255,ea,a,i iɛ iː u uɔ uː y yœ yː œ œː ɑ ɑː ɔ ɔː ɛ ɛː ɯ ɯɑ ɯː
+sout2697,South Azerbaijani,2259,ea,a,e i o u y æ œ ɑ ɯ
+kild1236,Kildin Saami,2260,ea,a,äː e̞ e̞ː i iː o̞ o̞ä o̞ː u uä ue̞ uː ɐ ɨ ɨː
+taji1245,Tajik,2266,ea,a,ä e i o u ɵ
+yong1270,Yongning Na,2267,ea,a,i u æ æ̃ ɑ ɔ ɛ ɤ ɯ ɯ̝
+bese1243,Beserman,2268,ea,a,e i o u ɑ ɘ ɨ̹ ʌ
+ishk1246,Ishkashimi,2270,ea,a,ä e̞ i o u ɔ ə
+swis1247,Zurich German,2272,ea,a,e ei̯ eː i iə̯ iː o oi̯ ou̯ oː u uə̯ uː y yə̯ yː æ æi̯ æu̯ æː ø øː œ œː ɒ ɒː ə ɛ ɛː
+malt1254,Maltese,2275,ea,a,iː uː ɐ ɐː ɔ ɔː ɛ ɛː ɪ ɪː ʊ
+mira1251,Mirandese,2278,ea,a,ä äi̯ äu̯ ei̯ eu̯ e̞ e̞u̯ ẽ̞ i iu̯ ĩ i̯a i̯e i̯ẽ oi̯ ou̯ õ o̞ o̞i̯ u ui̯ ũ u̯a u̯o u̯õ ɐ ɐ̃
+ladi1251,Judaeo-Spanish,2285,ea,a,ä e i o u
+nort2745,Tundra Yukaghir,2286,ea,a,ä̠ ä̠ː i iɛ̠ iː u œ̠ œ̠ː ə əː ɛ̠ ɛ̠ː ɞ̠ ɞ̠ː ɨä̠ ʉ ʉœ̠ ʉɞ̠ ʉː
+kore1280,Korean,2287,ea,a,eː e̞ iː oː o̞̜ uː ɐ ɑ̟ː ɘː ɛː ɛ̝ ɨi ɪ ɯː ɯ̽ ʊ̜ ʌ
+nauk1242,Naukan Yupik,2291,ea,a,ä i u ɨ
+even1259,Solon,2292,ea,a,e̞ i o u ɑ ɔ ə ʊ
+nort2697,North Azerbaijani,2296,ea,a,e̞ e̞ː i iː o̞ u uː y æ æː œ̞ œ̞ː ɑ ɑː ɯ
+roma1326,Vallader Romansh,2304,ea,a,ä äː e eː i iː o oː u uː y yː ø øː ɔ ɔː ə ɛ ɛː
+stan1288,Spanish,2308,ea,a,ä e̞ i i̯ o̞ u u̯
+daur1238,Daur,2312,ea,a,i iː i̯ u uː u̯ ɑ ɑː ɔ ɔː ə əː
+dhiv1236,Dhivehi,2315,ea,a,ä äu̯ äː e eː i iː o oː u uː æː
+russ1264,Buriat,2317,ea,a,i iː u ui uː œ̞ɛ̞ ɑ ɑː ɔ ɔː ɛː ɤː ɤ̟ ɨː ɵː ʊ ʊi ʊː
+kara1467,Karakalpak,2318,ea,a,i ii̯ i̘ o̞̙ uu̯ u̙ y yu̯ æ ø̞ ɑ̙ ɯ̙ ɯ̙i̯
+voti1245,Votic,2326,ea,a,e eː i iː o oː u uː y yː æ æː ø øː ɑ ɑː ɘ ɘː ɨ ɨː
+gaga1249,Gagauz,2331,ea,a,ä äː e̞ e̞ː i iː i̯e̞ o̞ o̞ː uː y yː æ ø̞ ɯi̯ ɯ̯ɤ̞ ɯ̽ ʊ
+lakk1252,Lak,2335,ea,a,ä ḛ i iː u uː æ̰ ɑ̝ ɑ̝ː ɞ̰
+kuni1268,Kunigami,2336,ea,a,ä e̞ i o̞ u
+guru1261,Gurung,2344,ea,a,i ĩ i̤ u ũ ṳ ɔ ɔː ɔ̃ ɔ̤ ɔ̤ː ɛ ɛː ɛ̃ ɛ̤ ɛ̤ː ʌ ʌː ʌ̤ ʌ̤ː
+adyg1241,Adyghe,2349,ea,iu,a e ə
+dakp1242,Northern Cuona,2350,ea,a,e eu i io iu iɑ o u ui uɑ y yu ø øu ɑ ɑi ɑu ə əu
+lizu1234,Lizu,2352,ea,a,e i o u y æ ɐ ə
+bett1235,Betta Kurumba,2354,ea,au,iː ɐi ɑ ɑː ɔ ɔː ə əi əː ɛ ɛː ɪ ʊː ʊ̈i ʊ̞
+chan1310,Chantyal,2356,ea,a,e ei̯ ẽ e̤ i iu ĩ i̤ o oi̯ õ o̤ u ue ui̯ ũ ṳ ɑ ɑy ɑɯ ɑ̃ ɑ̤ ʌ ʌy ʌɯ ʌ̃ ʌ̤
+gheg1238,Gheg Albanian,2358,ea,a,ã̈ ä äː e eː ẽ i iː ĩ o oː u uː ũ y ỹ
+chuk1273,Chukchi,2362,ea,a,ä e̞ i o̞ u ə̆
+mace1250,Macedonian,2363,ea,a,ä e i o u ə
+taus1251,Tausug,2365,ea,a,ä i u
+lada1244,Ladakhi,2366,ea,a,e i o u ə
+bulg1262,Bulgarian,2368,ea,a,ä i u ɔ ɛ ɤ̟
+gily1242,Nivkh,2370,ea,a,ä e̞ i o̞ u ɨ
+nort2686,Northern Altai,2372,ea,iau,ɑ ɑː ɒ ɒː ɛ ɛː ɞ ɞː ɪ ɪː ɯ̽ ɯ̽ː ɵ ɵː ɶ ɶː
+atay1247,Atayal,2373,ea,a,ä i u y ɔ ɛ
+arag1245,Aragonese,2375,ea,a,ä e i i̯ o u u̯
+khan1273,Northern Khanty,2376,ea,a,eˑ i o̟ˑ u̞ˑ ɑ̟ˑ ɑ̟̝ ə̆ ɛ ɞ ʊ̈
+basq1250,Zuberoan Basque,2381,ea,a,ã̈ ä e̞ ẽ̞ i ĩ i̯ o̞ õ̞ u ũ u̯ y ỹ
+kirg1245,Kyrgyz,2382,ea,a,e̞ e̞ː i iː o̞ o̞ː u uː y yː ø̞ ø̞ː ɑ ɑː ɯ ɯː
+komi1277,Yodzyak Komi,2384,ea,a,ä̠ e̠ i̠ o u ɵ̟ ʉ̟ ʌ
+puoc1238,Ksingmul,2386,ea,a,ä äː i iə iː o oː u uə uː ɔː ə əː ɛ ɛː ɨ ɨə ɨː
+bats1242,Bats,2390,ea,a,e ẽ i ie iː ĩ i̯ ĩ̯ o̞ o̞ː õ̞ u ũ u̯ ɑ ɑː ɑ̃ ɛː
+svan1243,Svan,2392,ea,a,ä äː i iː u uː y yː æ æː œ œː ɔ ɔː ɛ ɛː ɯ
+dzon1239,Dzongkha,2394,ea,a,ai au aːu e eu eː ẽː i iu iː ĩː o ou oː õː u uː ũː øu øː ɑ ɑː ɑ̃ː ɛu ɛː ʏː
+kett1243,Ket,2395,ea,a,ä e i o u æ ɔ ə ɛ ɯ ʌ
+paiw1248,Paiwan,2397,ea,a,ä i u ə
+kara1464,Karaim,2403,ea,a,e i o̞ u y ø ɑ ɯ
+varl1238,Varli,2404,ea,a,ã̈ ä ẽ i iː ĩ ĩː o oː õ õː u uː ũ ũː ə ə̃ ɛ
+alut1245,Alutor,2412,ea,a,ä äː e̞ː i iː o̞̜ː u uː ə̞̆
+nucl1301,Turkish,2416,ea,a,ä äː e̞ e̞ː i iː o̞ o̞ː u uː y æ ø̞ ɯ ɯː
+nucl1302,Georgian,2428,ea,a,i u ɑ ɔ ɛ
+cebu1242,Cebuano,2430,ea,iau,ɪ ʊ ʌ
+cent1973,Wazirwola,2431,ea,iu,a eː œː ɒː ə ɪ
+khak1248,Khakas,2433,ea,a,iː u uː y yː œ œː ɑ ɑː ɔ ɔː ɛ ɛː ɪ̞ ɯ ɯː
+vach1239,Eastern Khanty,2434,ea,au,eˑ iˑ oˑ yˑ æˑ øˑ ɑˑ ɪ ɯˑ ɯ̽ ʊ ʏ
+ming1252,Mingrelian,2436,ea,a,i u ɑ ɔ ɛ
+kurt1248,Kurtoep,2439,ea,a,e eː i iu iː o oi oː u ui uː ɑ ɑu ɑː
+norw1258,Norwegian,2441,ea,a,eː i iː oː u uː y yː øː œ ɑ ɑː ɔ ɛ ʉ ʉː
+sout2679,Võro,2442,ea,a,e̞ i iː o̞ u uː y yː æ æː ø̞ ɑ ɑː ɤ̞ ɪː ɯ ʊː ʏː
+roma1327,Romanian,2443,ea,a,ä e̞ e̯ä i i̯ o̞ o̯ä u u̯ ə ɨ
+kare1335,Karelian,2446,ea,a,e̞ i ie̞ iæ o̞ u uo̞ uɑ y yæ yø̞ æ ø̞ ɑ
+slov1269,Slovak,2447,ea,a,ä äː i̞ i̞ː u̞ u̞ː æ ɔ ɔː ɛ ɛː ɪ̯ä ɪ̯u̞ ɪ̯ɔ ʊ̯ɔ
+livv1244,Livonian,2448,ea,a,i o u æ ɑ ɛ ɨ ʊ̜
+fore1274,Forest Nenets,2450,ea,a,e̞ e̞ː i iː o̞ o̞ː u uː æ æː ɑ ɑː ə̆
+guja1252,Gujarati,2452,ea,a,ã̈ː ä ã̤̈ː ä̤ e i ĩː i̤ ĩ̤ː o u ũː ṳ ṳ̃ː æ ɔ ɔ̃ː ɔ̤ ɔ̤̃ː ə ə̃ː ə̤ ə̤̃ː ɛ ɛ̃ː ɛ̤ ɛ̤̃ː
+miya1259,Miyako,2453,ea,au,ä e̞ i̞ ɯ̞ ʊ
+mode1248,Greek,2458,ea,a,e̞ i o̞ u ɐ
+kama1351,Kamassian,2459,ea,a,e̞ i o̞ u y ø̞ ɒ ə ə̆ ə̟̆ ɨ
+komi1268,Komi-Zyrian,2460,ea,a,ä̠ e i o u ɘ̠ ɨ̠
+mong1331,Mongolian,2464,ea,a,ä äː e eː i oː u uː ɔ ɔː ɯ ɵ ʊ ʊː
+urdu1245,Urdu,2466,ea,a,ã̈ː äː eː ẽː iː ĩː oː õː uː ũː æ ɔː ɔ̃ː ə ə̃ ɛː ɛ̃ː ɪ ɪ̃ ʊ ʊ̃
+fore1265,Forest Enets,2469,ea,a,e i o u ɑ ɔ ɤ ɨ
+elfd1234,Elfdalian,2473,ea,iu,ai̯ː auː aː ãɪ̯ː ãː i̯uo i̯ũo o̞ o̞ː uo uoː ũo ũoː y yœ yœː yː ỹ ỹœ ỹœː ỹː æ æː œ œː œ̃ œ̃ː ɐ ɐ̃ ɔy̯ː ɔ̞ ɔ̞ː ɔ̞̃ ɔ̞̃ː ɛ ɛː ɛ̃ ɛ̃ː ɪ ɪɛ ɪɛː ɪː ɪ̃ ɪ̃ɛ ɪ̃ɛː ɪ̃ː ʏ ʏː ʏ̃ ʏ̃ː
+mans1258,Northern Mansi,2475,ea,a,e eɛ i iː o oɔ u uː ɐ ɑː ə
+czec1258,Czech,2480,ea,a,ä äu̯ äː i iː o ou̯ oː u uː ɛ ɛu̯ ɛː
+nort2641,Northern Kurdish,2484,ea,a,e i o u æ ɑ ɪ ʊ
+selk1253,Taz Selkup,2485,ea,a,ä äː e eː i iː o oː u uː y yː æ æː ø øː ɔː ɘ ɘː ɛ ɛː ɨ ɨː ɪ ɪː
+lith1251,Lithuanian,2488,ea,a,äː e iɛ iː o uɔ uː æː ɐ ɛ ɪ̯ ʊ̯
+veps1250,Veps,2490,ea,a,e̞ i o̞ u y æ ø̞ ɑ ɤ̞ ɨ
+merg1238,Myeik Burmese,2491,ea,a,aɪ̃ aɯ̃ a̰ɪ̰ a̰ɯ̰ e eɪ̃ ḛɪ̰ i o u æ̃ æ̰ ɑ ɔ əɯ̃ ə̰ɯ̰ ɛ ɪ̃ ɪ̰ ʊ̃ ʊ̰
+stan1325,Latvian,2493,ea,a,ä äː i iə iː i̯ uʌ uː æ æː ɔ ɔː ɛ ɛː ʊ ʊ̯
+ters1235,Ter Saami,2494,ea,a,ä äi̯ äː i iɛ iɛi̯ iː o oä oi̯ u uː ɒ ɛ ɛi̯ ɨ ɨi̯ ɨː
+pite1240,Pite Saami,2497,ea,iu,a aː ie o ɔ ɛ ɪ ʊ ʊa
+east2304,Eastern Hill Balochi,2498,ea,a,ã̈ː ä äː eː ẽː iː ĩː oː õː uː ũː æɪ̯ æ̃ɪ̯̃ ɔʊ̯ ɔ̃ʊ̯̃ ɪ ɪ̃ ʊ ʊ̃
+serb1264,Serbian,2499,ea,a,ä äː e̞ e̞ː i iː o̞ o̞ː u uː
+bash1264,Bashkir,2500,ea,a,e̞ i o̞ u æ ɒ ɨ ɪ̞ ɪ̞̈ ʉ̞ ʊ̞̈
+ukra1253,Ukrainian,2503,ea,a,i u ɑ ɔ ɛ ɪ
+lowa1242,South Mustang Tibetan,2504,ea,iu,a y œ ɔ ɛ ɪ ʊ
+sind1272,Sindhi,2508,ea,a,e ẽ i ĩ o õ u ũ æ æ̃ ɐ̆ ɑ ɑ̃ ɔ ɔ̃ ɪ̆ ʊ̆
+khar1287,Kharia,2511,ea,iau,ɑ ɔ ɛ ɪ ʊ
+taga1270,Tagalog,2513,ea,a,ä i o u ɛ
+wakh1245,Wakhi,2514,ea,a,ä äː iː o u̞ u̞ː ɔː ɜ̹ ɜ̹ː ɨ̹ ɨ̹ː ɪ
+stan1293,English,2515,ea,u,a aɪ aʊ eɪ eː iɛ iː ɑː ɒ ɔɪ ə ɛ ɛʉ ɪ ʉː ʊ
+west2369,Farsi,2520,ea,a,e̞ iː o̞ uː æ ɒː
+sala1264,Salar,2523,ea,a,e̞ː i iː o̞ o̞ː u y æ ø̞ ɑ ɑː ɯ
+lezg1247,Lezgian,2524,ea,a,i u y æ æː ɑː ɛ ʌ
+ersu1241,Ersu,2533,ea,u,a a˞ i o ə˞ ɛ
+finn1318,Finnish,2535,ea,a,e̞ i o̞ u y æ ø̞ ɑ
+udmu1245,Udmurt,2536,ea,a,e̞ i o̞ u y̠ æ ø̠̞ ɑ ɤ̝ ɪ
+uppe1395,Upper Sorbian,2541,ea,a,ä i i̯ i̯e u uo æ ɔ ɨ̞
+hind1269,Hindi,2542,ea,a,ã̈ː äː eː ẽː iː ĩː oː õː uː ũː æ ɔː ɔ̃ː ə ə̃ ɛː ɛ̃ː ɪ ɪ̃ ʊ ʊ̃
+sout2642,Southern Balochi,2545,ea,a,ä äː eː iː oː uː ɪ ʊ
+camp1261,Campidanese Sardinian,2546,ea,a,ã̈ ä e ẽ i ĩ o õ u ũ ɔ ɔ̃ ɛ ɛ̃
+abkh1244,Abkhaz,2552,ea,iau,ä äː ɨ
+hung1274,Hungarian,2557,ea,a,ä äː eː i iː o oː u uː yː ø øː ɔ ɛ
+tibe1272,Shigatse Tibetan,2558,ea,u,a aː ã ãː e ea eː ẽ ẽː i ie iː ĩ ĩẽ ĩː oa õã yː ỹː œː œ̃ː ɔ ɔː ɔ̃ ɔ̃ː ʊ ʊː ʊ̃ ʊ̃ː
+uppe1400,Upper Saxon,2564,ea,u,ae̯ aɵ̯ aˤː eː iː oˤ oˤː ɔˤː ɛ ɛː ɞ ɞʏ̯ ɪ ɵ ɵː ʉː ʊˤː ʌ ʌː ʌˤː
+ghod1238,Godoberi,2565,ea,a,ã̈ ä äː e eː i iː ĩ o oː u uː ũ
+icel1247,Icelandic,2568,ea,a,ä äi̯ äu̯ ei̯ i ou̯ u øɪ̯ œ ɔ ɔi̯ ɛ ɪ ʏ ʏi̯
+vlax1238,Vlax Romani,2569,ea,a,e i o u ɑ ə ɨ
+astu1245,Asturian,2571,ea,a,ä e̞ i i̯ o̞ u u̯
+chec1245,Chechen,2574,ea,a,e̞ e̞ː ẽ̞ː ie iẽ iː ĩː i̯e i̯ẽ o̞ o̞ː uː ũː u̯o u̯oː u̯õ u̯õː ɑː ɑ̃ː ə ə̃ ɪ ɪ̃ ʊ ʊ̃
+komi1269,Komi-Permyak,2575,ea,a,ä̠ e i o u ɘ̠ ɨ̠
+lisu1250,Lisu,2578,ea,a,e i o u y ø ɑ ɛ ɤ ɯ
+tuvi1240,Tuvan,2579,ea,a,i iː ḭː u uː ṵː y yː y̰ː œ œː œ̰ː ɑ ɑː ɑ̰ː ɔ ɔː ɔ̰ː ɛ ɛː ɛ̰ː ɯ̰̽ː ɯ̽ ɯ̽ː
+kara1474,Karata,2580,ea,a,ã̈ ä e̞ ẽ̞ i ĩ̞ o̞ õ̞ u ũ
+sout2436,Southwestern Pashto,2586,ea,iu,a eː oː ɑː ə ɪ ʊ
+digo1242,Digor Ossetic,2590,ea,ia,e o ŭ ɐ̆ ɑ ɪ̆
+tosk1239,Tosk Albanian,2592,ea,a,ä e i i̯ o u u̯ y ə
+east2282,Latgalian,2593,ea,a,ä äː i iɛ iː i̯ u uɔ uː u̯ æ æː ɔ ɔː ɛ ɛː ɨ
+turk1304,Turkmen,2595,ea,a,i iː u uː y yː æː œ œː ɑ ɑː ɔ ɔː ɛ ɯ ɯː
+jerr1238,Jèrriais,2596,ea,a,aːu̯ ei̯ eːi̯ ẽ ẽː i iː o oːu̯ õ õː u uː u̯o u̯ɔː yː øy̯ øːy̯ œ œː œ̃ œ̃ː ɒ ɒː ɒːi̯ ɒ̃ ɒ̃ː ɛ ɛː ɛ̃ ɛ̃ː ʏ
+lowe1385,Lower Sorbian,2602,ea,a,ä i iɪ̯ u ɔ ɛ ɨ
+nene1249,Tundra Nenets,2603,ea,ia,oː u uː æː ɑː ə ɤː ɨ ɨː
+poli1260,Polish,2604,ea,a,ä i ĩ̯ u ũ̯ ɔ ɘ̟ ɛ
+ilok1237,Ilocano,2606,ea,a,ä i o u ɛ ɯ
+tata1255,Tatar,2609,ea,i,a ä iɪ̯ ŏ u ɒ ɔ ɘ̆ ɛ ɤ̞̆ ɨ ɯɪ̯ ɵ̆ ʉ
+kaba1278,Kabardian,2610,ea,a,äː eː iː oː uː ɐ ə
+uigh1240,Uyghur,2612,ea,iau,e o æː ø œː ɑ ɑː ɔː ɛ ɪ ɪː ʊ ʊː ʏ ʏː
+buru1296,Burushaski,2613,ea,a,äː i iː o oː u uː ɛ ɛː ʌ
+basq1248,Basque,2615,ea,a,ä e̞ i i̯ o̞ u u̯
+erzy1239,Erzya,2616,ea,a,ä e̞ i o̞ u ɨ
+gali1258,Galician,2619,ea,a,ä e i o u ɔ ɛ
+mana1288,Manange,2620,ea,a,e ẽ i ĩ o õ u ũ ɑ ɑ̃ ʌ
+west2368,Western Balochi,2622,ea,au,iː i̯ɛ u̯ɔ yː æɪ̯ ɑː ɔʊ̯ ɪ ʊ
+port1283,Portuguese,2623,ea,a,ã̈ ä e ẽ i ĩ i̯ ĩ̯ o õ u ũ u̯ ũ̯ ɐ ɐ̃ ɔ ə ɛ ɯ̽
+beng1280,Bengali,2624,ea,a,e̞ ẽ̞ i ĩ o õ u ũ æ æi̯ æ̃ ɑ ɑi̯ ɑ̃ ɔ ɔi̯ ɔ̃
+sout2750,Kolyma Yukaghir,2625,ea,a,ä äː i iɛ iː u uœ uɔ uː œ œː ɔ ɔː ə ɛ ɛː
+osse1243,Iron Ossetic,2626,ea,a,e̞ i o̞ u ɐ̹̆ ɑ ɨ̆
+anin1240,Anindilyakwa,2651,er,u,a e i ə
+alya1239,Alyawarr,2702,er,u,a i ə
+kayt1238,Kaytetye,2711,er,u,a i ə

@@ -1,0 +1,59 @@
+Glottocode,n_marked,n_missing,missing,all_ok,LanguageName,InventoryID,Source
+apat1240,2,2,ũː ʊ̃,False,Apatani,1705,ra
+bady1239,12,6,ãː ẽː ə̃ː ĩː õː ũː,False,Pajade,1329,gm
+bhil1251,4,2,ẽ̞ ʊ̃,False,Bhili,1712,ra
+bond1245,9,1,ãõ,False,Remo,2305,ea
+bret1244,7,3,ãũ̯ ɑ̃ œ̃,False,Breton,2584,ea
+bund1253,5,3,ã ɛ̃ ʊ̃,False,Bundeli,1716,ra
+chen1255,6,2,ã ãː,False,Nyinpa Cone,2474,ea
+cher1273,1,1,ə̃,False,CHEROKEE,280,upsid
+copa1236,1,1,ɤ̟̞̃,False,ZOQUE,646,upsid
+dutc1256,3,1,ã,False,Dutch,2405,ea
+elfd1234,22,1,ãɪ̯ː,False,Elfdalian,2473,ea
+eyak1241,6,1,ɑ̃,False,EYAK,325,upsid
+gade1236,9,4,æ̞̃ ẽ̞ õ̞ ũː,False,Gade-Lohar,1721,ra
+guja1252,12,12,ã̈ː ã̤̈ː ə̃ː ə̤̃ː ɛ̃ː ɛ̤̃ː ĩː ĩ̤ː ɔ̃ː ɔ̤̃ː ũː ṳ̃ː,False,Gujarati,2452,ea
+guja1253,9,5,æ̞̃ ɑ̃ ẽ̞ õ̞ ũː,False,Gojri,1724,ra
+jaun1243,7,7,æ̞̃ ɑ̃ ẽ̞ ə̃ː õ̞ õː ʊ̃,False,Jaunsari,1731,ra
+jerr1238,10,3,ẽ ẽː õː,False,Jèrriais,2596,ea
+jica1244,8,1,ɪ̃ː,False,Jicarilla Apache,1232,ph
+juho1239,19,1,ɔ̃ˤː,False,!XU,432,upsid
+kara1462,12,4,ãɛ̃ ɛ̃ː ɛ̃ːi̯ œ̃ɛ̃,False,Tofa,2540,ea
+kara1474,5,1,ĩ̞,False,Karata,2580,ea
+kara1500,3,1,ə̃,False,Karajá,1962,saphon
+kash1277,12,5,æ̞̃ ɑ̃ ɑ̃ː ɪ̃ õ̞,False,Kashmiri,1738,ra
+kond1295,10,6,æ̞̃ ɑ̃ː ə̃ː ɪ̃ õ̞ ʊ̃,False,Kon̩d̩a or Kubi,1745,ra
+kuii1252,9,5,æ̞̃ ɑ̃ ə̃ː ɪ̃ ʊ̃,False,Kui,1752,ra
+kuru1302,14,8,ã ɑ̃ː ə̃ ĩː õ̞ ɔ̃ ɔ̃ː ũː,False,Kurux,1754,ra
+lakk1238,10,1,õ,False,LAKKIA,439,upsid
+lamb1269,8,5,æ̞̃ ɪ̃ õ̞ ũː ʊ̃,False,Lamani,1757,ra
+masa1299,2,1,ɛ̃,False,Orusyan,1367,gm
+merg1238,7,7,æ̃ aɪ̃ aɯ̃ eɪ̃ əɯ̃ ɪ̃ ʊ̃,False,Myeik Burmese,2491,ea
+miju1243,3,3,ã ɪ̃ õ̞,False,Mishmi,1767,ra
+mira1251,7,1,õ,False,Mirandese,2278,ea
+mori1278,1,1,æ̃,False,Mauritian Creole,1569,gm
+mudh1235,6,4,æ̞̃ ə̃ː õː ʊ̃,False,Kon̩ekar Gadaba,1746,ra
+nama1265,3,1,ɪ̃,False,Nama,155,spa
+niel1243,15,1,i̯ãː,False,Lwaa,1623,gm
+onei1249,4,4,ə̃ ə̃ː ɯ̃ ɯ̃ː,False,Oneida,77,spa
+poli1260,2,2,ĩ̯ ũ̯,False,Polish,2604,ea
+quio1240,7,2,æ̃ ɔ̃,False,HIGHLAND CHINANTEC,279,upsid
+rajb1243,3,1,ũĩ,False,Rājbanshi,2247,ea
+sanm1298,3,1,ə̃,False,Itunyoso Trique,2216,uz
+saot1239,6,1,ɪ̃,False,Saotomense,1566,gm
+scot1245,16,5,ẽɪ̃ ɛ̃ũ ɪ̃ ɪ̃ː ɪ̃ə̃,False,Scottish Gaelic,2601,ea
+sekp1241,5,4,ã õ ɔ̃ ũ,False,Likpe,1326,gm
+sene1264,2,2,ɛ̃ ɔ̃,False,SENECA,536,upsid
+sera1259,12,1,uẽ,False,Siraiki,1011,ph
+shix1238,16,5,ɛ̃ iɛ̃ ɔ̃ uɑ̃ uɛ̃,False,Shixing,2539,ea
+stan1290,3,1,ɑ̃,False,French,2269,ea
+taba1266,6,6,ãː ẽ̞ː ə̃ː ĩː õ̞ː ũː,False,Chontal,85,spa
+tagw1240,10,2,ã ãː,False,Tagwana,1041,ph
+tewa1260,7,1,ɛ̃ː,False,Tewa,93,spa
+unam1242,6,1,ə̃ː,False,Delaware,73,spa
+vaag1238,3,3,æ̞̃ ɪ̃ ʊ̃,False,Vaagri Boli,1798,ra
+varl1238,9,1,ẽ,False,Varli,2404,ea
+wuch1236,3,1,æ̃,False,CHANGZHOU,622,upsid
+xava1240,4,1,ɐ̃,False,Xavánte,1976,saphon
+yeru1240,7,6,æ̞̃ ɑ̃ː ə̃ː ɪ̃ õ̞ ʊ̃,False,Yerukala,1800,ra
+yuwa1244,7,1,ə̃ː,False,Hoti,2120,saphon

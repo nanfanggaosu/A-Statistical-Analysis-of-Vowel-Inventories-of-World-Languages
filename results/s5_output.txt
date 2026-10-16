@@ -1,0 +1,173 @@
+Q33 884 single vowels; support >= 10%: 23
+Phoneme
+i     0.943
+u     0.900
+a     0.880
+e     0.657
+o     0.641
+ɛ     0.357
+ɔ     0.350
+iː    0.332
+aː    0.311
+uː    0.307
+ə     0.221
+eː    0.221
+oː    0.217
+ĩ    0.180
+ɨ     0.171
+ã    0.170
+ũ    0.165
+ɪ     0.134
+ʊ     0.125
+õ    0.118
+
+Q34 pairs of all 884 vowels: 390,286 (only 253 need computing, Apriori property)
+Q36 frequent pairs (support >= 10%): 115
+i   u     0.892
+    a     0.843
+u   a     0.803
+i   e     0.646
+    o     0.629
+u   e     0.619
+a   e     0.602
+e   o     0.600
+u   o     0.599
+a   o     0.583
+i   ɛ     0.333
+    ɔ     0.332
+u   ɔ     0.331
+    ɛ     0.326
+a   ɔ     0.315
+    ɛ     0.313
+i   iː    0.308
+a   aː    0.304
+iː  uː    0.302
+ɛ   ɔ     0.301
+i   aː    0.294
+a   iː    0.288
+u   iː    0.287
+    uː    0.286
+i   uː    0.285
+
+Q37 hand-computed rules:
+    rule  support  confidence  lift
+  i -> u    0.892       0.947 1.052
+  u -> i    0.892       0.991 1.052
+  e -> o    0.600       0.914 1.425
+  o -> e    0.600       0.936 1.425
+  ɛ -> ɔ    0.301       0.845 2.411
+iː -> uː    0.302       0.909 2.959
+ĩ -> ã    0.158       0.876 5.141
+  e -> i    0.646       0.983 1.043
+  ə -> a    0.190       0.857 0.974
+
+Q40 frequent itemsets by size (10%): {1: 23, 2: 115, 3: 260, 4: 367, 5: 349, 6: 247, 7: 129, 8: 46, 9: 10, 10: 1}
+Q40 largest itemsets:
+  support                 itemsets  size
+ 0.14652 a aː e eː i iː o oː u uː    10
+
+Q42 rules from 10% itemsets: 66772
+Q42 top lift (confidence >= .8):
+           rule  support  confidence  lift
+e i õ -> ẽ o    0.102       0.918 8.316
+e õ -> ẽ i o    0.102       0.918 8.316
+  e õ -> ẽ o    0.102       0.918 8.316
+ẽ i o -> e õ    0.102       0.925 8.316
+ẽ o -> e i õ    0.102       0.925 8.316
+  ẽ o -> e õ    0.102       0.925 8.316
+  ẽ o -> i õ    0.103       0.934 7.965
+  i õ -> ẽ o    0.103       0.879 7.965
+e ẽ o -> i õ    0.102       0.933 7.960
+i õ -> e ẽ o    0.102       0.871 7.960
+e i o õ -> ẽ    0.102       0.925 7.956
+  e o õ -> ẽ    0.102       0.925 7.956
+Q42 lowest lift:
+          rule  support  confidence  lift
+    iː -> e u    0.187       0.564 0.911
+    e u -> iː    0.187       0.303 0.911
+  e i u -> iː    0.187       0.303 0.914
+  iː -> e i u    0.187       0.563 0.914
+  iː -> a e u    0.173       0.521 0.918
+  a e u -> iː    0.173       0.305 0.918
+a e i u -> iː    0.173       0.305 0.919
+iː -> a e i u    0.173       0.520 0.919
+
+Q45 rules with confidence >= .9 and lift in [.97, 1.03]: 230
+            rule  support  confidence  lift  consequent support
+       aː e -> i    0.194       0.970 1.029               0.943
+   aː oː uː -> i    0.162       0.970 1.029               0.943
+   aː iː uː -> i    0.250       0.970 1.029               0.943
+    a aː uː -> i    0.249       0.970 1.029               0.943
+aː eː oː uː -> i    0.157       0.969 1.028               0.943
+ a aː eː oː -> i    0.168       0.968 1.027               0.943
+        ɔ ə -> i    0.105       0.966 1.025               0.943
+   aː eː uː -> i    0.169       0.966 1.025               0.943
+      aː iː -> i    0.273       0.966 1.025               0.943
+    a aː oː -> i    0.179       0.965 1.024               0.943
+
+Q44 threshold sensitivity (vowels):
+  5%: 21722 itemsets, by size {1: 30, 2: 198, 3: 716, 4: 1748, 5: 3116, 6: 4201, 7: 4377, 8: 3552, 9: 2233, 10: 1068, 11: 376, 12: 92, 13: 14, 14: 1}; items: a aː ã e eː ẽ e̞ i iː ĩ o oː õ o̞ u uː ũ æ ɑ ɔ ɔː ɔ̃ ə ɛ ɛː ɛ̃ ɨ ɪ ɯ ʊ
+  10%: 1547 itemsets, by size {1: 23, 2: 115, 3: 260, 4: 367, 5: 349, 6: 247, 7: 129, 8: 46, 9: 10, 10: 1}; items: a aː ã e eː ẽ i iː ĩ o oː õ u uː ũ ɔ ɔː ə ɛ ɛː ɨ ɪ ʊ
+  25%: 129 itemsets, by size {1: 10, 2: 33, 3: 49, 4: 32, 5: 5}; items: a aː e i iː o u uː ɔ ɛ
+  50%: 31 itemsets, by size {1: 5, 2: 10, 3: 10, 4: 5, 5: 1}; items: a e i o u
+
+Q46 universal-type rules (min support 2%):
+          support  confidence   lift
+rule                                
+aː -> a     0.304       0.978  1.111
+ã -> a     0.167       0.981  1.115
+ø -> e      0.022       0.873  1.328
+iː -> i     0.308       0.927  0.983
+ĩ -> i     0.180       1.000  1.061
+y -> i      0.047       0.944  1.002
+uː -> u     0.286       0.930  1.033
+ũ -> u     0.164       0.997  1.108
+y -> u      0.045       0.917  1.018
+y -> i u    0.044       0.898  1.006
+Q46 [y] support = 0.049: invisible at 10% threshold, visible at 5% only as single item/pair
+Q46 highest-lift rules of size 3 (support >= 2%, conf >= .8):
+          rule  support  confidence   lift
+   e ɪ̃ -> ʊ̃    0.020       0.846 34.222
+aː ĩː -> ãː    0.021       0.882 33.808
+   u ɪ̃ -> ʊ̃    0.020       0.830 33.577
+   i ɪ̃ -> ʊ̃    0.020       0.815 32.955
+ a ĩː -> ãː    0.022       0.855 32.743
+   e ʊ̃ -> ɪ̃    0.020       0.898 32.150
+   u ʊ̃ -> ɪ̃    0.020       0.898 32.150
+ ĩː u -> ũː    0.021       0.902 31.772
+ĩː uː -> ũː    0.021       0.902 31.772
+   i ʊ̃ -> ɪ̃    0.020       0.880 31.507
+
+Q43 all segments: 2609 types; frequent (10%) itemsets up to size 3: 9578
+  size 1: 77 itemsets, purely vowel 23, purely consonant 54, mixed 0
+  size 2: 1124 itemsets, purely vowel 115, purely consonant 549, mixed 460
+  size 3: 8377 itemsets, purely vowel 260, purely consonant 2895, mixed 5222
+Q43 top 15 pairs:
+ itemsets  support
+     i m    0.910
+     i u    0.892
+     k m    0.875
+     j m    0.874
+     m u    0.869
+     i k    0.863
+     i j    0.848
+     a m    0.846
+     a i    0.843
+     k p    0.838
+     m p    0.828
+     k u    0.823
+     j k    0.818
+     m w    0.816
+     i p    0.813
+Q43 most frequent segments: {'m': 0.97, 'i': 0.94, 'k': 0.91, 'u': 0.9, 'j': 0.9, 'a': 0.88, 'p': 0.86, 'w': 0.85, 'n': 0.8, 't': 0.72, 'l': 0.69, 's': 0.67, 'e': 0.66, 'o': 0.64, 'ŋ': 0.64}
+Q43 rules with a consonant antecedent and vowel consequent, top by confidence:
+    rule  support  confidence  lift
+j ȵ -> a    0.150         1.0 1.136
+j ȵ -> i    0.150         1.0 1.061
+j ȶ -> a    0.122         1.0 1.136
+j ȶ -> i    0.122         1.0 1.061
+k ȵ -> a    0.122         1.0 1.136
+k ȵ -> i    0.122         1.0 1.061
+k ȶ -> a    0.122         1.0 1.136
+k ȶ -> i    0.122         1.0 1.061
+Q43 lift range of those rules: 0.74-3.06, median 1.06

@@ -1,0 +1,14 @@
+# environment
+.venv/
+__pycache__/
+.DS_Store
+
+# data (download instructions in README)
+phoible.csv
+glottolog_languages_v4.1.csv
+
+# course material and submission files (not published)
+*.pdf
+*.docx
+*.zip
+report.md

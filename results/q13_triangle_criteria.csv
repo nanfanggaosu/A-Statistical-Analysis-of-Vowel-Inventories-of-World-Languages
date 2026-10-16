@@ -1,0 +1,5 @@
+,i,a,u,all three,violators
+strict,0.943,0.88,0.9,0.798,442.0
+A: +diacritics,0.972,0.899,0.929,0.832,367.0
+B: +neighbouring qualities,0.99,0.995,0.952,0.945,121.0
+C: feature classes,0.991,0.991,0.951,0.94,131.0

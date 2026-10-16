@@ -1,0 +1,23 @@
+Q4 max InventoryID (ours)   i&a&u (criterion A) = 0.832  mean vowels = 10.19
+Q4 min InventoryID          i&a&u (criterion A) = 0.842  mean vowels = 10.09
+Q4 random choice (100 draws) i&a&u = 0.838 [0.833, 0.842]  mean vowels = 10.14 [10.09, 10.21]
+Q10 2-vowel language: Buwal (gm): ɑ ə
+Q10 2-vowel language: Cuvok (ph): a ə
+Q10 2-vowel language: zulgo (aa): a ə
+Q14 Squamish [spa]: a aː e eː o oː ə
+Q14 NAHUATL [upsid]: a i o̞ ɛ
+Q14 MALAGASY [upsid]: a e̞ i o
+Q14 YOLNGU [upsid]: ɐ ɪ ʊ
+Q14 TZELTAL [upsid]: a e̞ o̞ y ɪ ʊ
+Q14 ALABAMA [upsid]: a e o
+Q14 Wari' [saphon]: a e i o y ø
+Q19 nasal -> oral: per-vowel P(counterpart | marked) = 0.971 vs base rate P(counterpart) = 0.677
+Q19 long -> short: per-vowel P(counterpart | marked) = 0.910 vs base rate P(counterpart) = 0.680
+Q19 y -> i&u: P(i&u | y) = 0.928 vs P(i&u) = 0.923 vs P(i&u | no y) = 0.923
+
+Q5 531 languages, 1385 pairs of descriptions
+Q5 all       Jaccard mean=0.56 median=0.53 identical sets=7.4% same size=18.0% (n=1385)
+Q5 consonant Jaccard mean=0.61 median=0.59 identical sets=10.8% same size=31.6% (n=1385)
+Q5 vowel     Jaccard mean=0.54 median=0.50 identical sets=20.6% same size=40.1% (n=1385)
+Q5 tone      Jaccard mean=0.22 median=0.00 identical sets=15.1% same size=20.4% (n=299)
+Q5 tone pairs where only one description lists tones at all: 195 of 299
